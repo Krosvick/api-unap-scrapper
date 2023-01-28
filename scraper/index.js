@@ -1,15 +1,13 @@
 import fs from 'node:fs'
 import puppeteer from 'puppeteer'
-
+import beautify from "js-beautify"
 
 const browser = await puppeteer.launch()
 const page = await browser.newPage()
 await page.goto('http://portal.unap.cl/~siperpro/app/app_transparencia')
 await page.waitForSelector('tbody')
-const data = await page.evaluate(() => {
-    const tbody = document.querySelector('tbody')
-    return tbody?.textContent
-})
+let data = await page.evaluate(() => document.body.innerHTML)
+//beautify the html
+data = beautify.html(data)
 await browser.close()
-//save the result to a file
-fs.writeFileSync('data.txt', data)
+fs.writeFileSync('data.html', data)
