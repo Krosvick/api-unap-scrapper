@@ -21,39 +21,49 @@ const getFuncionarios = async () => {
     const $ = await scrape(URLS.transparencia)
     const $rows = $('table').eq(1).find('tr')
 
+    const FUNCIONARIOS_SELECTORS = {
+        nCompleto: 'td:nth-child(1)',
+        sede: 'td:nth-child(2)',
+        region: 'td:nth-child(3)',
+        estudios: 'td:nth-child(4)',
+        estamento: 'td:nth-child(5)',
+        categoria: 'td:nth-child(6)',
+        cargo: 'td:nth-child(7)',
+        funcion: 'td:nth-child(8)',
+        tipoJornada: 'td:nth-child(9)',
+        fInicio: 'td:nth-child(10)',
+        fTermino: 'td:nth-child(11)',
+        mes: 'td:nth-child(12)',
+        rentaBruta: 'td:nth-child(13)',
+        hextras: 'td:nth-child(14)',
+        hextrasNocturnasFestivas: 'td:nth-child(15)',
+        bonoUnap: 'td:nth-child(16)',
+        bonoGobierno: 'td:nth-child(17)',
+        asigEspeciales: 'td:nth-child(18)',
+        rentaLiquida: 'td:nth-child(19)',
+        uMonetaria: 'td:nth-child(20)',
+        observaciones: 'td:nth-child(21)',
+    }
+
     //regex to remove first blank space from strings that have it
-    const removeInitialBlank = text => text.replace(/^\s+/, '')
+    //also will clean the text to /n or /t and other special characters
+    const cleanText = (text) => {
+        return text.replace(/^\s+|\s+$/g, '').replace(/\s+/g, ' ')
+    }
 
     //loop through each row
     //ignore the first row because it's the header
     $rows.each((i, el) => {
+        const $el = $(el)
         if (i === 0) return
-        const rawName = $(el).find('td').eq(0).text()
-        const rawSede = $(el).find('td').eq(1).text()
-        const rawRegion = $(el).find('td').eq(2).text()
-        const rawEstudios = $(el).find('td').eq(3).text()
-        const rawEstamento = $(el).find('td').eq(4).text()
-        const rawCategoria = $(el).find('td').eq(5).text()
-        const rawCargo = $(el).find('td').eq(6).text()
-        const rawFuncion = $(el).find('td').eq(7).text()
-        const rawTipoJornada = $(el).find('td').eq(8).text()
-        const rawFInicio = $(el).find('td').eq(9).text()
-        const rawFTermino = $(el).find('td').eq(10).text()
-        const rawMes = $(el).find('td').eq(11).text()
-        const rawRentaBruta = $(el).find('td').eq(12).text()
-        const rawHExtras = $(el).find('td').eq(13).text()
-        const rawHExtrasNocturnasFestivas = $(el).find('td').eq(14).text()
-        const rawBonoUnap = $(el).find('td').eq(15).text()
-        const rawBonoGobierno = $(el).find('td').eq(16).text()
-        const rawAsigEspeciales = $(el).find('td').eq(17).text()
-        const rawRentaLiquida = $(el).find('td').eq(18).text()
-        const rawUMonetaria = $(el).find('td').eq(19).text()
-        const rawObservaciones = $(el).find('td').eq(20).text()
-        console.log({
-            nCompleto: removeInitialBlank(rawName),
+        const funcionariosEntries = Object.entries(FUNCIONARIOS_SELECTORS).map(([key, selector]) => {
+            const value = $el.find(selector).text()
+            return [key, cleanText(value) ]
         })
+        console.log(funcionariosEntries)
     })
 }
+
 
 await getFuncionarios()
 
