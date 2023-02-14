@@ -65,6 +65,18 @@ const getFuncionarios = async () => {
     const cleanNumber = (number) => {
         return number.replace(/\./g, '')
     }
+    const numberConverter = (number) => {
+       //first clean the number
+         number = cleanNumber(cleanText(number))
+        //if the number is empty, return 0
+        if (number === '') return 0
+        //if nan return 0
+        if (isNaN(number)) return 0
+        //if number have commas, it's a float
+        if (number.includes(',')) return parseFloat(number)
+        //if number doesn't have commas, it's an integer
+        return parseInt(number)
+    }
 
     //loop through each row
     //ignore the first row because it's the header
@@ -74,7 +86,7 @@ const getFuncionarios = async () => {
         if (i === 0) return
         const funcionariosEntries = Object.entries(FUNCIONARIOS_SELECTORS).map(([key, {selector, selectorprev, typeOf}]) => {
             const value = $el.find(selector).text()
-            if (typeOf === 'number') return [key, Number(cleanNumber(cleanText(value)))]
+            if (typeOf === 'number') return [key, Number(numberConverter(value))]
             if (selectorprev){
                 try {
                     return [key, cleanText($el.find(selectorprev).attr('title'))]
@@ -88,7 +100,7 @@ const getFuncionarios = async () => {
             if (typeof selector === 'object'){
                 const nestedEntries = Object.entries(selector).map(([nestedKey, {selector, typeOf}]) => {
                     const nestedValue = $el.find(selector).text()
-                    if (typeOf === 'number') return [nestedKey, Number(cleanNumber(cleanText(nestedValue)))]
+                    if (typeOf === 'number') return [nestedKey, Number(numberConverter(nestedValue))]
                     return [nestedKey, cleanText(nestedValue)]
                 })
                 return [key, Object.fromEntries(nestedEntries)]

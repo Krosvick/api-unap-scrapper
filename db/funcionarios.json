@@ -18,7 +18,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 145000
     },
     "asigEspeciales": "7.077 (002)",
@@ -46,8 +46,8 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
-      "bonoGobierno": null
+      "bonoUnap": 0,
+      "bonoGobierno": 0
     },
     "asigEspeciales": "-",
     "rentaBrutaMensualizada": 635013,
@@ -74,7 +74,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 290000
     },
     "asigEspeciales": "20.066 (002)",
@@ -102,7 +102,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 145000
     },
     "asigEspeciales": "-",
@@ -130,8 +130,8 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
-      "bonoGobierno": null
+      "bonoUnap": 0,
+      "bonoGobierno": 0
     },
     "asigEspeciales": "-",
     "rentaBrutaMensualizada": 1185358,
@@ -158,7 +158,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 290000
     },
     "asigEspeciales": "19.057 (002)",
@@ -186,7 +186,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 290000
     },
     "asigEspeciales": "-",
@@ -214,8 +214,8 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
-      "bonoGobierno": null
+      "bonoUnap": 0,
+      "bonoGobierno": 0
     },
     "asigEspeciales": "28.947 (002)",
     "rentaBrutaMensualizada": 1903225,
@@ -242,7 +242,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 195000
     },
     "asigEspeciales": "37.680 (002)",
@@ -270,7 +270,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 195000
     },
     "asigEspeciales": "-",
@@ -298,7 +298,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 290000
     },
     "asigEspeciales": "30.099 (002)",
@@ -326,7 +326,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 290000
     },
     "asigEspeciales": "6.352 (002)",
@@ -354,7 +354,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 145000
     },
     "asigEspeciales": "22.776 (002)",
@@ -382,7 +382,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 290000
     },
     "asigEspeciales": "19.670 (002)",
@@ -410,7 +410,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 195000
     },
     "asigEspeciales": "-",
@@ -438,7 +438,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 145000
     },
     "asigEspeciales": "28.308 (002)",
@@ -466,7 +466,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 290000
     },
     "asigEspeciales": "20.066 (002)124.668 (222)27.704 (222)",
@@ -494,7 +494,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 145000
     },
     "asigEspeciales": "53.467 (002)",
@@ -522,7 +522,7 @@
       "hextrasNocturnasFestivas": "26.316(6 Hrs.)"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 290000
     },
     "asigEspeciales": "8.361 (002)",
@@ -550,7 +550,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 290000
     },
     "asigEspeciales": "30.099 (002)",
@@ -578,7 +578,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 145000
     },
     "asigEspeciales": "124.755 (002)",
@@ -606,8 +606,8 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
-      "bonoGobierno": null
+      "bonoUnap": 0,
+      "bonoGobierno": 0
     },
     "asigEspeciales": "-",
     "rentaBrutaMensualizada": 1185358,
@@ -634,7 +634,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 145000
     },
     "asigEspeciales": "6.352 (002)",
@@ -662,8 +662,8 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
-      "bonoGobierno": null
+      "bonoUnap": 0,
+      "bonoGobierno": 0
     },
     "asigEspeciales": "-",
     "rentaBrutaMensualizada": 388465,
@@ -690,7 +690,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 195000
     },
     "asigEspeciales": "5.694 (002)",
@@ -718,7 +718,7 @@
       "hextrasNocturnasFestivas": "293.760(80 Hrs.)"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 290000
     },
     "asigEspeciales": "22.131 (002)",
@@ -746,7 +746,7 @@
       "hextrasNocturnasFestivas": "290.960(80 Hrs.)"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 290000
     },
     "asigEspeciales": "17.705 (002)10.000 (214)",
@@ -774,7 +774,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 195000
     },
     "asigEspeciales": "-",
@@ -802,7 +802,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 145000
     },
     "asigEspeciales": "22.776 (002)75.000 (230)",
@@ -830,7 +830,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 290000
     },
     "asigEspeciales": "7.816 (002)",
@@ -858,7 +858,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 145000
     },
     "asigEspeciales": "7.077 (002)",
@@ -886,7 +886,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 290000
     },
     "asigEspeciales": "11.388 (002)",
@@ -914,7 +914,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 145000
     },
     "asigEspeciales": "-",
@@ -942,7 +942,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 145000
     },
     "asigEspeciales": "11.388 (002)",
@@ -970,7 +970,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 290000
     },
     "asigEspeciales": "25.409 (002)",
@@ -998,7 +998,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 145000
     },
     "asigEspeciales": "-",
@@ -1026,7 +1026,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 145000
     },
     "asigEspeciales": "21.231 (002)",
@@ -1054,7 +1054,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 290000
     },
     "asigEspeciales": "13.278 (002)",
@@ -1082,7 +1082,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 290000
     },
     "asigEspeciales": "15.736 (002)",
@@ -1110,7 +1110,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 145000
     },
     "asigEspeciales": "115.787 (002)",
@@ -1138,7 +1138,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 290000
     },
     "asigEspeciales": "7.868 (002)",
@@ -1166,7 +1166,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 145000
     },
     "asigEspeciales": "36.588 (002)",
@@ -1194,7 +1194,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 290000
     },
     "asigEspeciales": "-",
@@ -1222,7 +1222,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 145000
     },
     "asigEspeciales": "22.776 (002)",
@@ -1250,7 +1250,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 290000
     },
     "asigEspeciales": "30.490 (002)",
@@ -1278,8 +1278,8 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
-      "bonoGobierno": null
+      "bonoUnap": 0,
+      "bonoGobierno": 0
     },
     "asigEspeciales": "24.216 (002)",
     "rentaBrutaMensualizada": 357233,
@@ -1306,8 +1306,8 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
-      "bonoGobierno": null
+      "bonoUnap": 0,
+      "bonoGobierno": 0
     },
     "asigEspeciales": "24.216 (002)",
     "rentaBrutaMensualizada": 357233,
@@ -1334,7 +1334,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 145000
     },
     "asigEspeciales": "25.343 (002)",
@@ -1362,7 +1362,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 145000
     },
     "asigEspeciales": "25.409 (002)",
@@ -1390,8 +1390,8 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
-      "bonoGobierno": null
+      "bonoUnap": 0,
+      "bonoGobierno": 0
     },
     "asigEspeciales": "26.743 (002)",
     "rentaBrutaMensualizada": 1025240,
@@ -1418,7 +1418,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 145000
     },
     "asigEspeciales": "26.743 (002)",
@@ -1446,7 +1446,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 290000
     },
     "asigEspeciales": "-",
@@ -1474,7 +1474,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 290000
     },
     "asigEspeciales": "7.868 (002)",
@@ -1502,7 +1502,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 195000
     },
     "asigEspeciales": "-",
@@ -1530,7 +1530,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 145000
     },
     "asigEspeciales": "6.352 (002)",
@@ -1558,7 +1558,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 290000
     },
     "asigEspeciales": "20.066 (002)",
@@ -1586,7 +1586,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 145000
     },
     "asigEspeciales": "-",
@@ -1614,7 +1614,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 290000
     },
     "asigEspeciales": "-",
@@ -1642,7 +1642,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 290000
     },
     "asigEspeciales": "27.748 (002)",
@@ -1670,7 +1670,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 290000
     },
     "asigEspeciales": "-",
@@ -1698,7 +1698,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 145000
     },
     "asigEspeciales": "43.957 (002)",
@@ -1726,8 +1726,8 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
-      "bonoGobierno": null
+      "bonoUnap": 0,
+      "bonoGobierno": 0
     },
     "asigEspeciales": "-",
     "rentaBrutaMensualizada": 432563,
@@ -1754,7 +1754,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 145000
     },
     "asigEspeciales": "14.154 (002)",
@@ -1782,7 +1782,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 145000
     },
     "asigEspeciales": "63.939 (002)",
@@ -1810,7 +1810,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 145000
     },
     "asigEspeciales": "22.776 (002)",
@@ -1838,7 +1838,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 145000
     },
     "asigEspeciales": "22.776 (002)",
@@ -1866,7 +1866,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 145000
     },
     "asigEspeciales": "34.164 (002)",
@@ -1894,8 +1894,8 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
-      "bonoGobierno": null
+      "bonoUnap": 0,
+      "bonoGobierno": 0
     },
     "asigEspeciales": "179.702 (002)",
     "rentaBrutaMensualizada": 3431695,
@@ -1922,8 +1922,8 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
-      "bonoGobierno": null
+      "bonoUnap": 0,
+      "bonoGobierno": 0
     },
     "asigEspeciales": "144.733 (002)",
     "rentaBrutaMensualizada": 3461848,
@@ -1950,7 +1950,7 @@
       "hextrasNocturnasFestivas": "283.200(80 Hrs.)"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 290000
     },
     "asigEspeciales": "8.852 (002)9.000 (214)",
@@ -1978,7 +1978,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 290000
     },
     "asigEspeciales": "20.066 (002)",
@@ -2006,7 +2006,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 145000
     },
     "asigEspeciales": "-",
@@ -2034,7 +2034,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 290000
     },
     "asigEspeciales": "-",
@@ -2062,7 +2062,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 145000
     },
     "asigEspeciales": "25.409 (002)",
@@ -2090,7 +2090,7 @@
       "hextrasNocturnasFestivas": "329.856(64 Hrs.)"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 290000
     },
     "asigEspeciales": "17.114 (002)",
@@ -2118,7 +2118,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 290000
     },
     "asigEspeciales": "30.099 (002)",
@@ -2146,8 +2146,8 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
-      "bonoGobierno": null
+      "bonoUnap": 0,
+      "bonoGobierno": 0
     },
     "asigEspeciales": "-",
     "rentaBrutaMensualizada": 688167,
@@ -2174,7 +2174,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 195000
     },
     "asigEspeciales": "-",
@@ -2202,7 +2202,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 290000
     },
     "asigEspeciales": "22.776 (002)",
@@ -2230,8 +2230,8 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
-      "bonoGobierno": null
+      "bonoUnap": 0,
+      "bonoGobierno": 0
     },
     "asigEspeciales": "-",
     "rentaBrutaMensualizada": 1185358,
@@ -2258,7 +2258,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 145000
     },
     "asigEspeciales": "-",
@@ -2286,7 +2286,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 290000
     },
     "asigEspeciales": "15.049 (002)139.185 (222)180.425 (222)",
@@ -2314,7 +2314,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 290000
     },
     "asigEspeciales": "12.705 (002)",
@@ -2342,7 +2342,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 290000
     },
     "asigEspeciales": "15.933 (002)",
@@ -2370,7 +2370,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 290000
     },
     "asigEspeciales": "18.840 (002)",
@@ -2398,8 +2398,8 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
-      "bonoGobierno": null
+      "bonoUnap": 0,
+      "bonoGobierno": 0
     },
     "asigEspeciales": "194.433 (002)",
     "rentaBrutaMensualizada": 4055109,
@@ -2426,7 +2426,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 145000
     },
     "asigEspeciales": "6.352 (002)",
@@ -2454,7 +2454,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 290000
     },
     "asigEspeciales": "22.818 (002)",
@@ -2482,7 +2482,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 290000
     },
     "asigEspeciales": "23.604 (002)",
@@ -2510,7 +2510,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 145000
     },
     "asigEspeciales": "45.551 (002)",
@@ -2538,7 +2538,7 @@
       "hextrasNocturnasFestivas": "323.136(88 Hrs.)"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 290000
     },
     "asigEspeciales": "22.131 (002)9.000 (214)",
@@ -2566,7 +2566,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 145000
     },
     "asigEspeciales": "22.776 (002)",
@@ -2594,7 +2594,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 145000
     },
     "asigEspeciales": "28.308 (002)",
@@ -2622,7 +2622,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 290000
     },
     "asigEspeciales": "17.114 (002)",
@@ -2650,7 +2650,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 290000
     },
     "asigEspeciales": "23.604 (002)",
@@ -2678,7 +2678,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 145000
     },
     "asigEspeciales": "35.385 (002)",
@@ -2706,7 +2706,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 145000
     },
     "asigEspeciales": "-",
@@ -2734,7 +2734,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 290000
     },
     "asigEspeciales": "10.033 (002)",
@@ -2762,7 +2762,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 145000
     },
     "asigEspeciales": "20.066 (002)",
@@ -2790,7 +2790,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 290000
     },
     "asigEspeciales": "25.082 (002)",
@@ -2818,7 +2818,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 290000
     },
     "asigEspeciales": "3.934 (002)",
@@ -2846,7 +2846,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 145000
     },
     "asigEspeciales": "226.424 (002)",
@@ -2874,7 +2874,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 145000
     },
     "asigEspeciales": "42.486 (002)",
@@ -2902,7 +2902,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 290000
     },
     "asigEspeciales": "5.705 (002)",
@@ -2930,8 +2930,8 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
-      "bonoGobierno": null
+      "bonoUnap": 0,
+      "bonoGobierno": 0
     },
     "asigEspeciales": "76.030 (002)",
     "rentaBrutaMensualizada": 3914280,
@@ -2958,7 +2958,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 145000
     },
     "asigEspeciales": "49.539 (002)",
@@ -2986,7 +2986,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 145000
     },
     "asigEspeciales": "61.151 (002)",
@@ -3014,7 +3014,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 290000
     },
     "asigEspeciales": "6.352 (002)",
@@ -3042,7 +3042,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 290000
     },
     "asigEspeciales": "15.049 (002)",
@@ -3070,7 +3070,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 145000
     },
     "asigEspeciales": "45.551 (002)",
@@ -3098,7 +3098,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 290000
     },
     "asigEspeciales": "312 (002)",
@@ -3126,7 +3126,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 145000
     },
     "asigEspeciales": "130.260 (002)",
@@ -3154,7 +3154,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 290000
     },
     "asigEspeciales": "5.705 (002)",
@@ -3182,7 +3182,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 145000
     },
     "asigEspeciales": "99.134 (002)",
@@ -3210,7 +3210,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 145000
     },
     "asigEspeciales": "12.705 (002)",
@@ -3238,7 +3238,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 145000
     },
     "asigEspeciales": "34.227 (002)",
@@ -3266,7 +3266,7 @@
       "hextrasNocturnasFestivas": "287.040(80 Hrs.)"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 290000
     },
     "asigEspeciales": "13.278 (002)6.000 (214)",
@@ -3294,7 +3294,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 290000
     },
     "asigEspeciales": "20.066 (002)",
@@ -3322,7 +3322,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 290000
     },
     "asigEspeciales": "6.380 (002)",
@@ -3350,7 +3350,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 195000
     },
     "asigEspeciales": "19.057 (002)",
@@ -3378,7 +3378,7 @@
       "hextrasNocturnasFestivas": "10.020(3 Hrs.)"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 290000
     },
     "asigEspeciales": "11.802 (002)",
@@ -3406,7 +3406,7 @@
       "hextrasNocturnasFestivas": "297.680(80 Hrs.)"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 290000
     },
     "asigEspeciales": "26.557 (002)8.000 (214)",
@@ -3434,7 +3434,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 145000
     },
     "asigEspeciales": "56.939 (002)",
@@ -3462,7 +3462,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 145000
     },
     "asigEspeciales": "11.388 (002)",
@@ -3490,7 +3490,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 145000
     },
     "asigEspeciales": "17.082 (002)",
@@ -3518,8 +3518,8 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
-      "bonoGobierno": null
+      "bonoUnap": 0,
+      "bonoGobierno": 0
     },
     "asigEspeciales": "29.479 (002)",
     "rentaBrutaMensualizada": 729112,
@@ -3546,7 +3546,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 290000
     },
     "asigEspeciales": "35.385 (002)141.048 (222)188.069 (222)203.736 (222)",
@@ -3574,7 +3574,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 145000
     },
     "asigEspeciales": "122.434 (002)",
@@ -3602,7 +3602,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 145000
     },
     "asigEspeciales": "34.164 (002)",
@@ -3630,7 +3630,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 290000
     },
     "asigEspeciales": "-",
@@ -3658,7 +3658,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 145000
     },
     "asigEspeciales": "12.705 (002)",
@@ -3686,7 +3686,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 145000
     },
     "asigEspeciales": "9.308 (002)",
@@ -3714,8 +3714,8 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
-      "bonoGobierno": null
+      "bonoUnap": 0,
+      "bonoGobierno": 0
     },
     "asigEspeciales": "9.308 (002)",
     "rentaBrutaMensualizada": 1000832,
@@ -3742,7 +3742,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 145000
     },
     "asigEspeciales": "35.385 (002)",
@@ -3770,7 +3770,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 195000
     },
     "asigEspeciales": "14.154 (002)",
@@ -3798,7 +3798,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 145000
     },
     "asigEspeciales": "34.164 (002)",
@@ -3826,7 +3826,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 145000
     },
     "asigEspeciales": "36.429 (002)",
@@ -3854,8 +3854,8 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
-      "bonoGobierno": null
+      "bonoUnap": 0,
+      "bonoGobierno": 0
     },
     "asigEspeciales": "27.322 (002)",
     "rentaBrutaMensualizada": 991032,
@@ -3882,7 +3882,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 290000
     },
     "asigEspeciales": "5.694 (002)",
@@ -3910,7 +3910,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 290000
     },
     "asigEspeciales": "21.231 (002)",
@@ -3938,7 +3938,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 145000
     },
     "asigEspeciales": "34.164 (002)",
@@ -3966,7 +3966,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 290000
     },
     "asigEspeciales": "20.066 (002)",
@@ -3994,7 +3994,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 145000
     },
     "asigEspeciales": "107.129 (002)",
@@ -4022,7 +4022,7 @@
       "hextrasNocturnasFestivas": "287.040(80 Hrs.)"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 290000
     },
     "asigEspeciales": "13.278 (002)6.000 (214)",
@@ -4050,7 +4050,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 290000
     },
     "asigEspeciales": "15.736 (002)",
@@ -4078,7 +4078,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 290000
     },
     "asigEspeciales": "11.409 (002)",
@@ -4106,7 +4106,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 145000
     },
     "asigEspeciales": "81.130 (002)",
@@ -4134,7 +4134,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 145000
     },
     "asigEspeciales": "45.551 (002)",
@@ -4162,7 +4162,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 290000
     },
     "asigEspeciales": "20.066 (002)",
@@ -4190,7 +4190,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 145000
     },
     "asigEspeciales": "45.159 (002)",
@@ -4218,8 +4218,8 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
-      "bonoGobierno": null
+      "bonoUnap": 0,
+      "bonoGobierno": 0
     },
     "asigEspeciales": "25.805 (002)",
     "rentaBrutaMensualizada": 1013606,
@@ -4246,7 +4246,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 290000
     },
     "asigEspeciales": "30.099 (002)",
@@ -4274,7 +4274,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 145000
     },
     "asigEspeciales": "113.296 (002)",
@@ -4302,7 +4302,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 145000
     },
     "asigEspeciales": "45.551 (002)",
@@ -4330,7 +4330,7 @@
       "hextrasNocturnasFestivas": "327.448(88 Hrs.)"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 290000
     },
     "asigEspeciales": "26.557 (002)10.000 (214)",
@@ -4358,7 +4358,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 290000
     },
     "asigEspeciales": "17.082 (002)",
@@ -4386,7 +4386,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 290000
     },
     "asigEspeciales": "25.082 (002)",
@@ -4414,7 +4414,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 290000
     },
     "asigEspeciales": "25.409 (002)",
@@ -4442,7 +4442,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 290000
     },
     "asigEspeciales": "15.736 (002)",
@@ -4470,7 +4470,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 290000
     },
     "asigEspeciales": "20.066 (002)",
@@ -4498,7 +4498,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 145000
     },
     "asigEspeciales": "14.975 (002)",
@@ -4526,8 +4526,8 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
-      "bonoGobierno": null
+      "bonoUnap": 0,
+      "bonoGobierno": 0
     },
     "asigEspeciales": "7.487 (002)",
     "rentaBrutaMensualizada": 998282,
@@ -4554,7 +4554,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 145000
     },
     "asigEspeciales": "-",
@@ -4582,7 +4582,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 290000
     },
     "asigEspeciales": "13.278 (002)",
@@ -4610,7 +4610,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 290000
     },
     "asigEspeciales": "26.543 (002)",
@@ -4638,7 +4638,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 290000
     },
     "asigEspeciales": "15.049 (002)",
@@ -4666,7 +4666,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 145000
     },
     "asigEspeciales": "45.551 (002)",
@@ -4694,7 +4694,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 290000
     },
     "asigEspeciales": "-",
@@ -4722,7 +4722,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 290000
     },
     "asigEspeciales": "-",
@@ -4750,7 +4750,7 @@
       "hextrasNocturnasFestivas": "38.718(9 Hrs.)"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 290000
     },
     "asigEspeciales": "25.082 (002)",
@@ -4778,7 +4778,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 145000
     },
     "asigEspeciales": "31.262 (002)",
@@ -4806,8 +4806,8 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
-      "bonoGobierno": null
+      "bonoUnap": 0,
+      "bonoGobierno": 0
     },
     "asigEspeciales": "-",
     "rentaBrutaMensualizada": 319506,
@@ -4834,7 +4834,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 290000
     },
     "asigEspeciales": "-",
@@ -4862,7 +4862,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 290000
     },
     "asigEspeciales": "23.604 (002)",
@@ -4890,7 +4890,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 145000
     },
     "asigEspeciales": "163.366 (002)",
@@ -4918,8 +4918,8 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
-      "bonoGobierno": null
+      "bonoUnap": 0,
+      "bonoGobierno": 0
     },
     "asigEspeciales": "48.500 (002)",
     "rentaBrutaMensualizada": 1106706,
@@ -4946,7 +4946,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 145000
     },
     "asigEspeciales": "38.847 (002)",
@@ -4974,7 +4974,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 290000
     },
     "asigEspeciales": "7.868 (002)",
@@ -5002,8 +5002,8 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
-      "bonoGobierno": null
+      "bonoUnap": 0,
+      "bonoGobierno": 0
     },
     "asigEspeciales": "-",
     "rentaBrutaMensualizada": 266254,
@@ -5030,7 +5030,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 145000
     },
     "asigEspeciales": "19.057 (002)",
@@ -5058,7 +5058,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 290000
     },
     "asigEspeciales": "30.099 (002)",
@@ -5086,7 +5086,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 195000
     },
     "asigEspeciales": "31.762 (002)",
@@ -5114,7 +5114,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 290000
     },
     "asigEspeciales": "5.694 (002)",
@@ -5142,7 +5142,7 @@
       "hextrasNocturnasFestivas": "49.128(6 Hrs.)"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 195000
     },
     "asigEspeciales": "19.057 (002)",
@@ -5170,7 +5170,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 290000
     },
     "asigEspeciales": "31.762 (002)",
@@ -5198,7 +5198,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 145000
     },
     "asigEspeciales": "21.231 (002)",
@@ -5226,7 +5226,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 290000
     },
     "asigEspeciales": "-",
@@ -5254,7 +5254,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 290000
     },
     "asigEspeciales": "11.388 (002)",
@@ -5282,7 +5282,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 145000
     },
     "asigEspeciales": "28.308 (002)",
@@ -5310,8 +5310,8 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
-      "bonoGobierno": null
+      "bonoUnap": 0,
+      "bonoGobierno": 0
     },
     "asigEspeciales": "-",
     "rentaBrutaMensualizada": 1448774,
@@ -5338,7 +5338,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 145000
     },
     "asigEspeciales": "204.760 (002)",
@@ -5366,7 +5366,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 290000
     },
     "asigEspeciales": "11.802 (002)",
@@ -5394,7 +5394,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 290000
     },
     "asigEspeciales": "-",
@@ -5422,8 +5422,8 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
-      "bonoGobierno": null
+      "bonoUnap": 0,
+      "bonoGobierno": 0
     },
     "asigEspeciales": "5.694 (002)",
     "rentaBrutaMensualizada": 995772,
@@ -5450,7 +5450,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 145000
     },
     "asigEspeciales": "17.082 (002)",
@@ -5478,7 +5478,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 145000
     },
     "asigEspeciales": "14.154 (002)",
@@ -5506,7 +5506,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 290000
     },
     "asigEspeciales": "-",
@@ -5534,7 +5534,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 290000
     },
     "asigEspeciales": "20.066 (002)",
@@ -5562,7 +5562,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 290000
     },
     "asigEspeciales": "-",
@@ -5590,7 +5590,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 290000
     },
     "asigEspeciales": "-",
@@ -5618,7 +5618,7 @@
       "hextrasNocturnasFestivas": "321.728(88 Hrs.)"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 290000
     },
     "asigEspeciales": "17.705 (002)10.000 (214)",
@@ -5646,7 +5646,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 290000
     },
     "asigEspeciales": "11.388 (002)",
@@ -5674,7 +5674,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 145000
     },
     "asigEspeciales": "-",
@@ -5702,7 +5702,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 145000
     },
     "asigEspeciales": "133.568 (002)",
@@ -5730,7 +5730,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 290000
     },
     "asigEspeciales": "17.114 (002)",
@@ -5758,8 +5758,8 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
-      "bonoGobierno": null
+      "bonoUnap": 0,
+      "bonoGobierno": 0
     },
     "asigEspeciales": "9.107 (002)",
     "rentaBrutaMensualizada": 1282779,
@@ -5786,7 +5786,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 145000
     },
     "asigEspeciales": "91.072 (002)",
@@ -5814,7 +5814,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 290000
     },
     "asigEspeciales": "-",
@@ -5842,7 +5842,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 290000
     },
     "asigEspeciales": "7.035 (002)",
@@ -5870,7 +5870,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 145000
     },
     "asigEspeciales": "-",
@@ -5898,7 +5898,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 290000
     },
     "asigEspeciales": "22.818 (002)",
@@ -5926,7 +5926,7 @@
       "hextrasNocturnasFestivas": "10.424(1 Hrs.)"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 145000
     },
     "asigEspeciales": "14.154 (002)",
@@ -5954,7 +5954,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 145000
     },
     "asigEspeciales": "-",
@@ -5982,7 +5982,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 195000
     },
     "asigEspeciales": "-",
@@ -6010,7 +6010,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 145000
     },
     "asigEspeciales": "17.114 (002)",
@@ -6038,7 +6038,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 145000
     },
     "asigEspeciales": "21.231 (002)",
@@ -6066,7 +6066,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 290000
     },
     "asigEspeciales": "25.082 (002)",
@@ -6094,7 +6094,7 @@
       "hextrasNocturnasFestivas": "292.480(80 Hrs.)"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 290000
     },
     "asigEspeciales": "17.705 (002)10.000 (214)",
@@ -6122,7 +6122,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 290000
     },
     "asigEspeciales": "20.066 (002)",
@@ -6150,7 +6150,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 145000
     },
     "asigEspeciales": "46.922 (002)",
@@ -6178,7 +6178,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 145000
     },
     "asigEspeciales": "145.716 (002)",
@@ -6206,7 +6206,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 145000
     },
     "asigEspeciales": "-",
@@ -6234,8 +6234,8 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
-      "bonoGobierno": null
+      "bonoUnap": 0,
+      "bonoGobierno": 0
     },
     "asigEspeciales": "79.484 (002)",
     "rentaBrutaMensualizada": 3762182,
@@ -6262,7 +6262,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 145000
     },
     "asigEspeciales": "76.030 (002)",
@@ -6290,7 +6290,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 290000
     },
     "asigEspeciales": "24.392 (002)",
@@ -6318,7 +6318,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 145000
     },
     "asigEspeciales": "-",
@@ -6346,8 +6346,8 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
-      "bonoGobierno": null
+      "bonoUnap": 0,
+      "bonoGobierno": 0
     },
     "asigEspeciales": "-",
     "rentaBrutaMensualizada": 1493333,
@@ -6374,7 +6374,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 290000
     },
     "asigEspeciales": "12.705 (002)",
@@ -6402,8 +6402,8 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
-      "bonoGobierno": null
+      "bonoUnap": 0,
+      "bonoGobierno": 0
     },
     "asigEspeciales": "54.448 (002)",
     "rentaBrutaMensualizada": 3553254,
@@ -6430,7 +6430,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 145000
     },
     "asigEspeciales": "7.077 (002)",
@@ -6458,8 +6458,8 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
-      "bonoGobierno": null
+      "bonoUnap": 0,
+      "bonoGobierno": 0
     },
     "asigEspeciales": "23.461 (002)",
     "rentaBrutaMensualizada": 1020647,
@@ -6486,7 +6486,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 145000
     },
     "asigEspeciales": "31.281 (002)",
@@ -6514,7 +6514,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 145000
     },
     "asigEspeciales": "14.154 (002)",
@@ -6542,7 +6542,7 @@
       "hextrasNocturnasFestivas": "287.040(80 Hrs.)"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 290000
     },
     "asigEspeciales": "13.278 (002)6.000 (214)",
@@ -6570,7 +6570,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 145000
     },
     "asigEspeciales": "13.371 (002)",
@@ -6598,7 +6598,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 290000
     },
     "asigEspeciales": "13.278 (002)",
@@ -6626,7 +6626,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 145000
     },
     "asigEspeciales": "78.204 (002)",
@@ -6654,7 +6654,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 145000
     },
     "asigEspeciales": "130.260 (002)",
@@ -6682,7 +6682,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 290000
     },
     "asigEspeciales": "-",
@@ -6710,7 +6710,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 145000
     },
     "asigEspeciales": "28.308 (002)",
@@ -6738,7 +6738,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 290000
     },
     "asigEspeciales": "23.604 (002)",
@@ -6766,7 +6766,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 290000
     },
     "asigEspeciales": "20.066 (002)",
@@ -6794,7 +6794,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 145000
     },
     "asigEspeciales": "-",
@@ -6822,7 +6822,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 290000
     },
     "asigEspeciales": "30.099 (002)",
@@ -6850,7 +6850,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 290000
     },
     "asigEspeciales": "20.066 (002)",
@@ -6878,7 +6878,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 145000
     },
     "asigEspeciales": "-",
@@ -6906,7 +6906,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 145000
     },
     "asigEspeciales": "45.551 (002)",
@@ -6934,7 +6934,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 145000
     },
     "asigEspeciales": "11.388 (002)",
@@ -6962,7 +6962,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 290000
     },
     "asigEspeciales": "-",
@@ -6990,7 +6990,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 145000
     },
     "asigEspeciales": "11.388 (002)",
@@ -7018,7 +7018,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 290000
     },
     "asigEspeciales": "30.099 (002)",
@@ -7046,7 +7046,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 145000
     },
     "asigEspeciales": "43.420 (002)",
@@ -7074,7 +7074,7 @@
       "hextrasNocturnasFestivas": "287.040(80 Hrs.)"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 290000
     },
     "asigEspeciales": "13.278 (002)",
@@ -7102,7 +7102,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 290000
     },
     "asigEspeciales": "6.280 (002)",
@@ -7130,7 +7130,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 145000
     },
     "asigEspeciales": "28.308 (002)",
@@ -7158,7 +7158,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 145000
     },
     "asigEspeciales": "34.164 (002)",
@@ -7186,7 +7186,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 290000
     },
     "asigEspeciales": "-",
@@ -7214,7 +7214,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 145000
     },
     "asigEspeciales": "45.551 (002)",
@@ -7242,7 +7242,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 290000
     },
     "asigEspeciales": "13.271 (002)184.096 (222)184.096 (222)207.108 (222)57.530 (222)57.530 (222)",
@@ -7270,7 +7270,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 145000
     },
     "asigEspeciales": "34.164 (002)",
@@ -7298,7 +7298,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 290000
     },
     "asigEspeciales": "20.066 (002)",
@@ -7326,7 +7326,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 290000
     },
     "asigEspeciales": "25.082 (002)",
@@ -7354,7 +7354,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 290000
     },
     "asigEspeciales": "-",
@@ -7382,7 +7382,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 145000
     },
     "asigEspeciales": "57.893 (002)",
@@ -7410,7 +7410,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 290000
     },
     "asigEspeciales": "12.216 (002)",
@@ -7438,7 +7438,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 145000
     },
     "asigEspeciales": "95.284 (002)",
@@ -7466,7 +7466,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 290000
     },
     "asigEspeciales": "-",
@@ -7494,7 +7494,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 290000
     },
     "asigEspeciales": "19.670 (002)",
@@ -7522,7 +7522,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 145000
     },
     "asigEspeciales": "14.154 (002)",
@@ -7550,7 +7550,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 145000
     },
     "asigEspeciales": "24.392 (002)",
@@ -7578,7 +7578,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 145000
     },
     "asigEspeciales": "14.154 (002)",
@@ -7606,7 +7606,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 290000
     },
     "asigEspeciales": "10.033 (002)",
@@ -7634,7 +7634,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 290000
     },
     "asigEspeciales": "19.670 (002)",
@@ -7662,7 +7662,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 290000
     },
     "asigEspeciales": "11.409 (002)",
@@ -7690,7 +7690,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 145000
     },
     "asigEspeciales": "-",
@@ -7718,7 +7718,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 195000
     },
     "asigEspeciales": "28.308 (002)",
@@ -7746,7 +7746,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 145000
     },
     "asigEspeciales": "25.409 (002)",
@@ -7774,8 +7774,8 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
-      "bonoGobierno": null
+      "bonoUnap": 0,
+      "bonoGobierno": 0
     },
     "asigEspeciales": "30.608 (002)",
     "rentaBrutaMensualizada": 3521578,
@@ -7802,7 +7802,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 145000
     },
     "asigEspeciales": "-",
@@ -7830,7 +7830,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 290000
     },
     "asigEspeciales": "50.819 (002)",
@@ -7858,7 +7858,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 290000
     },
     "asigEspeciales": "5.705 (002)",
@@ -7886,7 +7886,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 290000
     },
     "asigEspeciales": "12.541 (002)",
@@ -7914,7 +7914,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 290000
     },
     "asigEspeciales": "20.066 (002)",
@@ -7942,7 +7942,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 290000
     },
     "asigEspeciales": "20.066 (002)",
@@ -7970,7 +7970,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 290000
     },
     "asigEspeciales": "-",
@@ -7998,7 +7998,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 145000
     },
     "asigEspeciales": "19.057 (002)",
@@ -8026,8 +8026,8 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
-      "bonoGobierno": null
+      "bonoUnap": 0,
+      "bonoGobierno": 0
     },
     "asigEspeciales": "34.164 (002)",
     "rentaBrutaMensualizada": 3431303,
@@ -8054,7 +8054,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 145000
     },
     "asigEspeciales": "43.597 (002)",
@@ -8082,8 +8082,8 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
-      "bonoGobierno": null
+      "bonoUnap": 0,
+      "bonoGobierno": 0
     },
     "asigEspeciales": "43.597 (002)",
     "rentaBrutaMensualizada": 1045350,
@@ -8110,7 +8110,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 195000
     },
     "asigEspeciales": "-",
@@ -8138,7 +8138,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 290000
     },
     "asigEspeciales": "-",
@@ -8166,7 +8166,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 290000
     },
     "asigEspeciales": "21.231 (002)",
@@ -8194,7 +8194,7 @@
       "hextrasNocturnasFestivas": "353.144(88 Hrs.)"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 290000
     },
     "asigEspeciales": "8.852 (002)10.000 (214)",
@@ -8222,7 +8222,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 145000
     },
     "asigEspeciales": "65.996 (002)",
@@ -8250,7 +8250,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 290000
     },
     "asigEspeciales": "15.049 (002)",
@@ -8278,7 +8278,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 290000
     },
     "asigEspeciales": "-",
@@ -8306,7 +8306,7 @@
       "hextrasNocturnasFestivas": "320.056(88 Hrs.)"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 290000
     },
     "asigEspeciales": "17.705 (002)5.000 (214)",
@@ -8334,8 +8334,8 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
-      "bonoGobierno": null
+      "bonoUnap": 0,
+      "bonoGobierno": 0
     },
     "asigEspeciales": "44.924 (002)",
     "rentaBrutaMensualizada": 1520315,
@@ -8362,7 +8362,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 145000
     },
     "asigEspeciales": "52.411 (002)",
@@ -8390,7 +8390,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 195000
     },
     "asigEspeciales": "-",
@@ -8418,7 +8418,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 145000
     },
     "asigEspeciales": "-",
@@ -8446,7 +8446,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 145000
     },
     "asigEspeciales": "6.352 (002)",
@@ -8474,7 +8474,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 195000
     },
     "asigEspeciales": "-",
@@ -8502,7 +8502,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 145000
     },
     "asigEspeciales": "11.388 (002)",
@@ -8530,7 +8530,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 145000
     },
     "asigEspeciales": "22.776 (002)",
@@ -8558,8 +8558,8 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
-      "bonoGobierno": null
+      "bonoUnap": 0,
+      "bonoGobierno": 0
     },
     "asigEspeciales": "16.649 (002)",
     "rentaBrutaMensualizada": 338243,
@@ -8586,7 +8586,7 @@
       "hextrasNocturnasFestivas": "290.960(80 Hrs.)"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 290000
     },
     "asigEspeciales": "17.705 (002)10.000 (214)",
@@ -8614,7 +8614,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 290000
     },
     "asigEspeciales": "19.670 (002)",
@@ -8642,7 +8642,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 290000
     },
     "asigEspeciales": "56.939 (002)",
@@ -8670,7 +8670,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 290000
     },
     "asigEspeciales": "10.033 (002)",
@@ -8698,7 +8698,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 145000
     },
     "asigEspeciales": "17.082 (002)",
@@ -8726,8 +8726,8 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
-      "bonoGobierno": null
+      "bonoUnap": 0,
+      "bonoGobierno": 0
     },
     "asigEspeciales": "-",
     "rentaBrutaMensualizada": 635013,
@@ -8754,7 +8754,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 145000
     },
     "asigEspeciales": "3.539 (002)",
@@ -8782,7 +8782,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 145000
     },
     "asigEspeciales": "116.660 (002)",
@@ -8810,7 +8810,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 290000
     },
     "asigEspeciales": "-",
@@ -8838,7 +8838,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 145000
     },
     "asigEspeciales": "-",
@@ -8866,7 +8866,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 290000
     },
     "asigEspeciales": "34.227 (002)",
@@ -8894,7 +8894,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 145000
     },
     "asigEspeciales": "52.540 (002)",
@@ -8922,7 +8922,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 290000
     },
     "asigEspeciales": "-",
@@ -8950,7 +8950,7 @@
       "hextrasNocturnasFestivas": "297.680(80 Hrs.)"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 290000
     },
     "asigEspeciales": "26.557 (002)10.000 (214)",
@@ -8978,7 +8978,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 195000
     },
     "asigEspeciales": "-",
@@ -9006,7 +9006,7 @@
       "hextrasNocturnasFestivas": "290.960(80 Hrs.)"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 290000
     },
     "asigEspeciales": "17.705 (002)9.000 (214)",
@@ -9034,7 +9034,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 290000
     },
     "asigEspeciales": "-",
@@ -9062,8 +9062,8 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
-      "bonoGobierno": null
+      "bonoUnap": 0,
+      "bonoGobierno": 0
     },
     "asigEspeciales": "24.216 (002)",
     "rentaBrutaMensualizada": 491988,
@@ -9090,7 +9090,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 145000
     },
     "asigEspeciales": "-",
@@ -9118,7 +9118,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 290000
     },
     "asigEspeciales": "22.776 (002)",
@@ -9146,7 +9146,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 145000
     },
     "asigEspeciales": "-",
@@ -9174,7 +9174,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 145000
     },
     "asigEspeciales": "49.497 (002)",
@@ -9202,8 +9202,8 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
-      "bonoGobierno": null
+      "bonoUnap": 0,
+      "bonoGobierno": 0
     },
     "asigEspeciales": "-",
     "rentaBrutaMensualizada": 2370722,
@@ -9230,7 +9230,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 145000
     },
     "asigEspeciales": "11.388 (002)",
@@ -9258,7 +9258,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 290000
     },
     "asigEspeciales": "17.705 (002)",
@@ -9286,7 +9286,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 145000
     },
     "asigEspeciales": "40.836 (002)",
@@ -9314,8 +9314,8 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
-      "bonoGobierno": null
+      "bonoUnap": 0,
+      "bonoGobierno": 0
     },
     "asigEspeciales": "20.418 (002)",
     "rentaBrutaMensualizada": 1016385,
@@ -9342,7 +9342,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 195000
     },
     "asigEspeciales": "12.705 (002)",
@@ -9370,7 +9370,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 290000
     },
     "asigEspeciales": "25.409 (002)",
@@ -9398,7 +9398,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 145000
     },
     "asigEspeciales": "19.057 (002)",
@@ -9426,7 +9426,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 145000
     },
     "asigEspeciales": "50.706 (002)",
@@ -9454,7 +9454,7 @@
       "hextrasNocturnasFestivas": "330.944(64 Hrs.)"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 290000
     },
     "asigEspeciales": "11.409 (002)",
@@ -9482,7 +9482,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 145000
     },
     "asigEspeciales": "35.833 (002)",
@@ -9510,7 +9510,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 290000
     },
     "asigEspeciales": "15.049 (002)",
@@ -9538,7 +9538,7 @@
       "hextrasNocturnasFestivas": "297.680(80 Hrs.)"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 290000
     },
     "asigEspeciales": "26.557 (002)",
@@ -9566,7 +9566,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 290000
     },
     "asigEspeciales": "15.049 (002)",
@@ -9594,7 +9594,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 145000
     },
     "asigEspeciales": "-",
@@ -9622,7 +9622,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 290000
     },
     "asigEspeciales": "-",
@@ -9650,7 +9650,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 290000
     },
     "asigEspeciales": "34.227 (002)",
@@ -9678,7 +9678,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 290000
     },
     "asigEspeciales": "13.278 (002)",
@@ -9706,7 +9706,7 @@
       "hextrasNocturnasFestivas": "287.040(80 Hrs.)"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 290000
     },
     "asigEspeciales": "13.278 (002)10.000 (214)",
@@ -9734,7 +9734,7 @@
       "hextrasNocturnasFestivas": "311.520(88 Hrs.)"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 290000
     },
     "asigEspeciales": "8.852 (002)4.000 (214)",
@@ -9762,7 +9762,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 290000
     },
     "asigEspeciales": "22.131 (002)",
@@ -9790,7 +9790,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 290000
     },
     "asigEspeciales": "23.604 (002)",
@@ -9818,7 +9818,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 145000
     },
     "asigEspeciales": "25.409 (002)",
@@ -9846,7 +9846,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 290000
     },
     "asigEspeciales": "7.081 (002)",
@@ -9874,7 +9874,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 145000
     },
     "asigEspeciales": "15.304 (002)",
@@ -9902,7 +9902,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 145000
     },
     "asigEspeciales": "124.713 (002)",
@@ -9930,7 +9930,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 145000
     },
     "asigEspeciales": "31.281 (002)",
@@ -9958,7 +9958,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 290000
     },
     "asigEspeciales": "6.352 (002)",
@@ -9986,7 +9986,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 290000
     },
     "asigEspeciales": "15.049 (002)",
@@ -10014,7 +10014,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 145000
     },
     "asigEspeciales": "36.690 (002)",
@@ -10042,8 +10042,8 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
-      "bonoGobierno": null
+      "bonoUnap": 0,
+      "bonoGobierno": 0
     },
     "asigEspeciales": "51.190 (002)",
     "rentaBrutaMensualizada": 2581008,
@@ -10070,7 +10070,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 145000
     },
     "asigEspeciales": "11.388 (002)",
@@ -10098,7 +10098,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 290000
     },
     "asigEspeciales": "-",
@@ -10126,7 +10126,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 290000
     },
     "asigEspeciales": "9.577 (002)",
@@ -10154,7 +10154,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 195000
     },
     "asigEspeciales": "-",
@@ -10182,7 +10182,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 290000
     },
     "asigEspeciales": "20.066 (002)",
@@ -10210,7 +10210,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 145000
     },
     "asigEspeciales": "-",
@@ -10238,7 +10238,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 195000
     },
     "asigEspeciales": "14.154 (002)",
@@ -10266,7 +10266,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 145000
     },
     "asigEspeciales": "38.114 (002)",
@@ -10294,7 +10294,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 290000
     },
     "asigEspeciales": "10.033 (002)",
@@ -10322,7 +10322,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 145000
     },
     "asigEspeciales": "72.367 (002)",
@@ -10350,7 +10350,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 145000
     },
     "asigEspeciales": "105.080 (002)",
@@ -10378,7 +10378,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 290000
     },
     "asigEspeciales": "23.604 (002)",
@@ -10406,7 +10406,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 290000
     },
     "asigEspeciales": "7.868 (002)",
@@ -10434,8 +10434,8 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
-      "bonoGobierno": null
+      "bonoUnap": 0,
+      "bonoGobierno": 0
     },
     "asigEspeciales": "-",
     "rentaBrutaMensualizada": 2370722,
@@ -10462,7 +10462,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 145000
     },
     "asigEspeciales": "223.390 (002)",
@@ -10490,7 +10490,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 145000
     },
     "asigEspeciales": "260.612 (002)",
@@ -10518,7 +10518,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 290000
     },
     "asigEspeciales": "25.082 (002)",
@@ -10546,7 +10546,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 145000
     },
     "asigEspeciales": "25.409 (002)",
@@ -10574,7 +10574,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 290000
     },
     "asigEspeciales": "17.114 (002)",
@@ -10602,7 +10602,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 145000
     },
     "asigEspeciales": "96.999 (002)",
@@ -10630,7 +10630,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 145000
     },
     "asigEspeciales": "22.776 (002)",
@@ -10658,7 +10658,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 290000
     },
     "asigEspeciales": "7.868 (002)",
@@ -10686,7 +10686,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 145000
     },
     "asigEspeciales": "11.388 (002)",
@@ -10714,7 +10714,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 145000
     },
     "asigEspeciales": "38.708 (002)",
@@ -10742,7 +10742,7 @@
       "hextrasNocturnasFestivas": "297.680(80 Hrs.)"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 290000
     },
     "asigEspeciales": "26.557 (002)8.000 (214)",
@@ -10770,7 +10770,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 290000
     },
     "asigEspeciales": "19.057 (002)",
@@ -10798,7 +10798,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 290000
     },
     "asigEspeciales": "17.705 (002)",
@@ -10826,7 +10826,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 290000
     },
     "asigEspeciales": "22.776 (002)",
@@ -10854,7 +10854,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 290000
     },
     "asigEspeciales": "12.705 (002)",
@@ -10882,7 +10882,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 290000
     },
     "asigEspeciales": "25.082 (002)",
@@ -10910,7 +10910,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 145000
     },
     "asigEspeciales": "-",
@@ -10938,8 +10938,8 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
-      "bonoGobierno": null
+      "bonoUnap": 0,
+      "bonoGobierno": 0
     },
     "asigEspeciales": "-",
     "rentaBrutaMensualizada": 299534,
@@ -10966,7 +10966,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 145000
     },
     "asigEspeciales": "21.231 (002)",
@@ -10994,7 +10994,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 195000
     },
     "asigEspeciales": "14.154 (002)",
@@ -11022,7 +11022,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 145000
     },
     "asigEspeciales": "28.308 (002)",
@@ -11050,7 +11050,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 290000
     },
     "asigEspeciales": "20.066 (002)",
@@ -11078,7 +11078,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 290000
     },
     "asigEspeciales": "12.560 (002)",
@@ -11106,7 +11106,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 290000
     },
     "asigEspeciales": "12.541 (002)",
@@ -11134,8 +11134,8 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
-      "bonoGobierno": null
+      "bonoUnap": 0,
+      "bonoGobierno": 0
     },
     "asigEspeciales": "73.262 (002)",
     "rentaBrutaMensualizada": 3490820,
@@ -11162,7 +11162,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 145000
     },
     "asigEspeciales": "113.296 (002)",
@@ -11190,8 +11190,8 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
-      "bonoGobierno": null
+      "bonoUnap": 0,
+      "bonoGobierno": 0
     },
     "asigEspeciales": "76.030 (002)",
     "rentaBrutaMensualizada": 3921077,
@@ -11218,7 +11218,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 290000
     },
     "asigEspeciales": "13.612 (002)",
@@ -11246,7 +11246,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 290000
     },
     "asigEspeciales": "15.736 (002)",
@@ -11274,7 +11274,7 @@
       "hextrasNocturnasFestivas": "293.760(80 Hrs.)"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 290000
     },
     "asigEspeciales": "22.131 (002)10.000 (214)",
@@ -11302,7 +11302,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 290000
     },
     "asigEspeciales": "20.066 (002)",
@@ -11330,7 +11330,7 @@
       "hextrasNocturnasFestivas": "293.760(80 Hrs.)"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 290000
     },
     "asigEspeciales": "22.131 (002)10.000 (214)",
@@ -11358,7 +11358,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 145000
     },
     "asigEspeciales": "61.217 (002)",
@@ -11386,7 +11386,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 145000
     },
     "asigEspeciales": "36.588 (002)",
@@ -11414,7 +11414,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 145000
     },
     "asigEspeciales": "6.352 (002)",
@@ -11442,7 +11442,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 145000
     },
     "asigEspeciales": "-",
@@ -11470,7 +11470,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 145000
     },
     "asigEspeciales": "12.705 (002)",
@@ -11498,7 +11498,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 195000
     },
     "asigEspeciales": "6.352 (002)250.000 (222)250.000 (222)",
@@ -11526,7 +11526,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 290000
     },
     "asigEspeciales": "-",
@@ -11554,7 +11554,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 145000
     },
     "asigEspeciales": "101.374 (002)",
@@ -11582,7 +11582,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 145000
     },
     "asigEspeciales": "21.231 (002)",
@@ -11610,7 +11610,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 145000
     },
     "asigEspeciales": "31.262 (002)",
@@ -11638,7 +11638,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 145000
     },
     "asigEspeciales": "21.231 (002)",
@@ -11666,7 +11666,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 290000
     },
     "asigEspeciales": "71.932 (002)",
@@ -11694,7 +11694,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 145000
     },
     "asigEspeciales": "12.705 (002)",
@@ -11722,7 +11722,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 145000
     },
     "asigEspeciales": "14.154 (002)",
@@ -11750,7 +11750,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 290000
     },
     "asigEspeciales": "39.078 (002)",
@@ -11778,7 +11778,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 290000
     },
     "asigEspeciales": "22.818 (002)",
@@ -11806,7 +11806,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 145000
     },
     "asigEspeciales": "79.924 (002)",
@@ -11834,7 +11834,7 @@
       "hextrasNocturnasFestivas": "25.820(5 Hrs.)"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 290000
     },
     "asigEspeciales": "15.049 (002)",
@@ -11862,7 +11862,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 290000
     },
     "asigEspeciales": "39.932 (002)",
@@ -11890,7 +11890,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 145000
     },
     "asigEspeciales": "-",
@@ -11918,7 +11918,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 290000
     },
     "asigEspeciales": "20.066 (002)",
@@ -11946,7 +11946,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 145000
     },
     "asigEspeciales": "-",
@@ -11974,7 +11974,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 145000
     },
     "asigEspeciales": "-",
@@ -12002,7 +12002,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 145000
     },
     "asigEspeciales": "79.924 (002)",
@@ -12030,7 +12030,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 290000
     },
     "asigEspeciales": "15.736 (002)",
@@ -12058,7 +12058,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 145000
     },
     "asigEspeciales": "12.705 (002)",
@@ -12086,7 +12086,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 145000
     },
     "asigEspeciales": "12.705 (002)",
@@ -12114,7 +12114,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 145000
     },
     "asigEspeciales": "28.308 (002)",
@@ -12142,7 +12142,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 195000
     },
     "asigEspeciales": "14.154 (002)",
@@ -12170,7 +12170,7 @@
       "hextrasNocturnasFestivas": "315.744(88 Hrs.)"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 290000
     },
     "asigEspeciales": "13.278 (002)10.000 (214)",
@@ -12198,7 +12198,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 145000
     },
     "asigEspeciales": "25.343 (002)",
@@ -12226,7 +12226,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 290000
     },
     "asigEspeciales": "72.144 (002)",
@@ -12254,7 +12254,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 290000
     },
     "asigEspeciales": "-",
@@ -12282,7 +12282,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 290000
     },
     "asigEspeciales": "20.066 (002)",
@@ -12310,7 +12310,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 145000
     },
     "asigEspeciales": "122.071 (002)",
@@ -12338,7 +12338,7 @@
       "hextrasNocturnasFestivas": "315.744(88 Hrs.)"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 290000
     },
     "asigEspeciales": "13.278 (002)10.000 (214)",
@@ -12366,7 +12366,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 290000
     },
     "asigEspeciales": "-",
@@ -12394,7 +12394,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 195000
     },
     "asigEspeciales": "-",
@@ -12422,7 +12422,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 290000
     },
     "asigEspeciales": "49.539 (002)",
@@ -12450,7 +12450,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 290000
     },
     "asigEspeciales": "18.840 (002)",
@@ -12478,7 +12478,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 145000
     },
     "asigEspeciales": "11.388 (002)",
@@ -12506,7 +12506,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 290000
     },
     "asigEspeciales": "22.818 (002)",
@@ -12534,7 +12534,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 290000
     },
     "asigEspeciales": "-",
@@ -12562,7 +12562,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 145000
     },
     "asigEspeciales": "35.833 (002)",
@@ -12590,7 +12590,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 290000
     },
     "asigEspeciales": "-",
@@ -12618,7 +12618,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 290000
     },
     "asigEspeciales": "-",
@@ -12646,7 +12646,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 145000
     },
     "asigEspeciales": "-",
@@ -12674,7 +12674,7 @@
       "hextrasNocturnasFestivas": "327.448(88 Hrs.)"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 290000
     },
     "asigEspeciales": "26.557 (002)10.000 (214)",
@@ -12702,7 +12702,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 145000
     },
     "asigEspeciales": "-",
@@ -12730,7 +12730,7 @@
       "hextrasNocturnasFestivas": "327.448(88 Hrs.)"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 290000
     },
     "asigEspeciales": "26.557 (002)",
@@ -12758,7 +12758,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 145000
     },
     "asigEspeciales": "34.164 (002)",
@@ -12786,7 +12786,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 145000
     },
     "asigEspeciales": "-",
@@ -12814,7 +12814,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 145000
     },
     "asigEspeciales": "53.485 (002)",
@@ -12842,7 +12842,7 @@
       "hextrasNocturnasFestivas": "311.520(88 Hrs.)"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 290000
     },
     "asigEspeciales": "8.852 (002)10.000 (214)",
@@ -12870,7 +12870,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 145000
     },
     "asigEspeciales": "116.872 (002)",
@@ -12898,7 +12898,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 145000
     },
     "asigEspeciales": "36.631 (002)",
@@ -12926,8 +12926,8 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
-      "bonoGobierno": null
+      "bonoUnap": 0,
+      "bonoGobierno": 0
     },
     "asigEspeciales": "7.326 (002)",
     "rentaBrutaMensualizada": 998057,
@@ -12954,7 +12954,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 145000
     },
     "asigEspeciales": "31.762 (002)",
@@ -12982,7 +12982,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 145000
     },
     "asigEspeciales": "21.231 (002)",
@@ -13010,7 +13010,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 145000
     },
     "asigEspeciales": "11.388 (002)",
@@ -13038,7 +13038,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 145000
     },
     "asigEspeciales": "12.705 (002)",
@@ -13066,7 +13066,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 290000
     },
     "asigEspeciales": "23.604 (002)",
@@ -13094,7 +13094,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 145000
     },
     "asigEspeciales": "39.078 (002)",
@@ -13122,7 +13122,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 145000
     },
     "asigEspeciales": "11.388 (002)",
@@ -13150,7 +13150,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 145000
     },
     "asigEspeciales": "-",
@@ -13178,7 +13178,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 145000
     },
     "asigEspeciales": "37.230 (002)",
@@ -13206,7 +13206,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 290000
     },
     "asigEspeciales": "20.066 (002)",
@@ -13234,7 +13234,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 290000
     },
     "asigEspeciales": "-",
@@ -13262,7 +13262,7 @@
       "hextrasNocturnasFestivas": "290.960(80 Hrs.)"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 290000
     },
     "asigEspeciales": "17.705 (002)4.000 (214)",
@@ -13290,7 +13290,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 290000
     },
     "asigEspeciales": "20.066 (002)",
@@ -13318,7 +13318,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 290000
     },
     "asigEspeciales": "17.114 (002)",
@@ -13346,7 +13346,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 145000
     },
     "asigEspeciales": "134.771 (002)",
@@ -13374,7 +13374,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 145000
     },
     "asigEspeciales": "14.154 (002)",
@@ -13402,7 +13402,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 290000
     },
     "asigEspeciales": "11.802 (002)",
@@ -13430,7 +13430,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 290000
     },
     "asigEspeciales": "20.066 (002)",
@@ -13458,7 +13458,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 290000
     },
     "asigEspeciales": "10.033 (002)",
@@ -13486,7 +13486,7 @@
       "hextrasNocturnasFestivas": "297.680(80 Hrs.)"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 290000
     },
     "asigEspeciales": "26.557 (002)9.000 (214)",
@@ -13514,7 +13514,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 195000
     },
     "asigEspeciales": "14.154 (002)",
@@ -13542,7 +13542,7 @@
       "hextrasNocturnasFestivas": "297.680(80 Hrs.)"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 290000
     },
     "asigEspeciales": "26.557 (002)10.000 (214)",
@@ -13570,7 +13570,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 145000
     },
     "asigEspeciales": "14.154 (002)",
@@ -13598,7 +13598,7 @@
       "hextrasNocturnasFestivas": "283.200(80 Hrs.)"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 290000
     },
     "asigEspeciales": "8.852 (002)9.000 (214)",
@@ -13626,7 +13626,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 145000
     },
     "asigEspeciales": "104.822 (002)",
@@ -13654,7 +13654,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 145000
     },
     "asigEspeciales": "11.388 (002)",
@@ -13682,7 +13682,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 290000
     },
     "asigEspeciales": "10.033 (002)",
@@ -13710,7 +13710,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 145000
     },
     "asigEspeciales": "43.420 (002)",
@@ -13738,7 +13738,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 290000
     },
     "asigEspeciales": "7.868 (002)",
@@ -13766,7 +13766,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 145000
     },
     "asigEspeciales": "-",
@@ -13794,7 +13794,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 290000
     },
     "asigEspeciales": "-",
@@ -13822,7 +13822,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 145000
     },
     "asigEspeciales": "34.643 (002)",
@@ -13850,8 +13850,8 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
-      "bonoGobierno": null
+      "bonoUnap": 0,
+      "bonoGobierno": 0
     },
     "asigEspeciales": "-",
     "rentaBrutaMensualizada": 1491020,
@@ -13878,7 +13878,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 145000
     },
     "asigEspeciales": "22.776 (002)",
@@ -13906,7 +13906,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 195000
     },
     "asigEspeciales": "-",
@@ -13934,7 +13934,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 145000
     },
     "asigEspeciales": "14.154 (002)",
@@ -13962,7 +13962,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 195000
     },
     "asigEspeciales": "50.819 (002)",
@@ -13990,7 +13990,7 @@
       "hextrasNocturnasFestivas": "10.899(3 Hrs.)"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 290000
     },
     "asigEspeciales": "20.066 (002)",
@@ -14018,7 +14018,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 145000
     },
     "asigEspeciales": "35.385 (002)",
@@ -14046,8 +14046,8 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
-      "bonoGobierno": null
+      "bonoUnap": 0,
+      "bonoGobierno": 0
     },
     "asigEspeciales": "-",
     "rentaBrutaMensualizada": 1448774,
@@ -14074,7 +14074,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 290000
     },
     "asigEspeciales": "5.694 (002)",
@@ -14102,8 +14102,8 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
-      "bonoGobierno": null
+      "bonoUnap": 0,
+      "bonoGobierno": 0
     },
     "asigEspeciales": "29.949 (002)",
     "rentaBrutaMensualizada": 1022135,
@@ -14130,7 +14130,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 145000
     },
     "asigEspeciales": "29.949 (002)",
@@ -14158,7 +14158,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 145000
     },
     "asigEspeciales": "28.308 (002)",
@@ -14186,7 +14186,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 290000
     },
     "asigEspeciales": "38.114 (002)",
@@ -14214,7 +14214,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 145000
     },
     "asigEspeciales": "56.648 (002)",
@@ -14242,7 +14242,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 145000
     },
     "asigEspeciales": "34.164 (002)",
@@ -14270,7 +14270,7 @@
       "hextrasNocturnasFestivas": "327.448(88 Hrs.)"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 290000
     },
     "asigEspeciales": "26.557 (002)10.000 (214)",
@@ -14298,7 +14298,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 145000
     },
     "asigEspeciales": "83.480 (002)",
@@ -14326,7 +14326,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 290000
     },
     "asigEspeciales": "18.840 (002)",
@@ -14354,7 +14354,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 145000
     },
     "asigEspeciales": "11.388 (002)",
@@ -14382,7 +14382,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 290000
     },
     "asigEspeciales": "25.082 (002)",
@@ -14410,7 +14410,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 290000
     },
     "asigEspeciales": "-",
@@ -14438,7 +14438,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 290000
     },
     "asigEspeciales": "10.033 (002)",
@@ -14466,7 +14466,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 290000
     },
     "asigEspeciales": "20.066 (002)",
@@ -14494,7 +14494,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 145000
     },
     "asigEspeciales": "14.154 (002)",
@@ -14522,7 +14522,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 145000
     },
     "asigEspeciales": "-",
@@ -14550,7 +14550,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 145000
     },
     "asigEspeciales": "34.164 (002)",
@@ -14578,7 +14578,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 145000
     },
     "asigEspeciales": "153.570 (002)",
@@ -14606,7 +14606,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 145000
     },
     "asigEspeciales": "11.388 (002)",
@@ -14634,7 +14634,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 145000
     },
     "asigEspeciales": "-",
@@ -14662,7 +14662,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 290000
     },
     "asigEspeciales": "24.392 (002)",
@@ -14690,7 +14690,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 145000
     },
     "asigEspeciales": "101.374 (002)",
@@ -14718,7 +14718,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 290000
     },
     "asigEspeciales": "28.523 (002)",
@@ -14746,7 +14746,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 145000
     },
     "asigEspeciales": "26.875 (002)",
@@ -14774,7 +14774,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 145000
     },
     "asigEspeciales": "12.705 (002)",
@@ -14802,7 +14802,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 145000
     },
     "asigEspeciales": "44.792 (002)",
@@ -14830,7 +14830,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 145000
     },
     "asigEspeciales": "58.609 (002)",
@@ -14858,7 +14858,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 145000
     },
     "asigEspeciales": "40.565 (002)",
@@ -14886,7 +14886,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 145000
     },
     "asigEspeciales": "175.000 (230)",
@@ -14914,7 +14914,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 290000
     },
     "asigEspeciales": "13.278 (002)",
@@ -14942,8 +14942,8 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
-      "bonoGobierno": null
+      "bonoUnap": 0,
+      "bonoGobierno": 0
     },
     "asigEspeciales": "27.224 (002)",
     "rentaBrutaMensualizada": 1339774,
@@ -14970,7 +14970,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 145000
     },
     "asigEspeciales": "32.754 (002)",
@@ -14998,7 +14998,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 290000
     },
     "asigEspeciales": "17.114 (002)",
@@ -15026,7 +15026,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 290000
     },
     "asigEspeciales": "-",
@@ -15054,7 +15054,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 145000
     },
     "asigEspeciales": "40.836 (002)",
@@ -15082,7 +15082,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 290000
     },
     "asigEspeciales": "11.409 (002)",
@@ -15110,7 +15110,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 195000
     },
     "asigEspeciales": "-",
@@ -15138,8 +15138,8 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
-      "bonoGobierno": null
+      "bonoUnap": 0,
+      "bonoGobierno": 0
     },
     "asigEspeciales": "69.755 (002)",
     "rentaBrutaMensualizada": 3748572,
@@ -15166,7 +15166,7 @@
       "hextrasNocturnasFestivas": "297.680(80 Hrs.)"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 290000
     },
     "asigEspeciales": "26.557 (002)",
@@ -15194,7 +15194,7 @@
       "hextrasNocturnasFestivas": "297.680(80 Hrs.)"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 290000
     },
     "asigEspeciales": "26.557 (002)10.000 (214)",
@@ -15222,7 +15222,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 145000
     },
     "asigEspeciales": "23.603 (002)",
@@ -15250,7 +15250,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 290000
     },
     "asigEspeciales": "10.033 (002)",
@@ -15278,7 +15278,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 145000
     },
     "asigEspeciales": "63.635 (002)",
@@ -15306,7 +15306,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 145000
     },
     "asigEspeciales": "14.154 (002)",
@@ -15334,7 +15334,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 290000
     },
     "asigEspeciales": "51.190 (002)",
@@ -15362,7 +15362,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 290000
     },
     "asigEspeciales": "20.066 (002)",
@@ -15390,7 +15390,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 290000
     },
     "asigEspeciales": "-",
@@ -15418,7 +15418,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 195000
     },
     "asigEspeciales": "12.705 (002)",
@@ -15446,7 +15446,7 @@
       "hextrasNocturnasFestivas": "287.040(80 Hrs.)"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 290000
     },
     "asigEspeciales": "13.278 (002)9.000 (214)",
@@ -15474,7 +15474,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 290000
     },
     "asigEspeciales": "12.541 (002)",
@@ -15502,7 +15502,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 290000
     },
     "asigEspeciales": "20.066 (002)",
@@ -15530,7 +15530,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 145000
     },
     "asigEspeciales": "19.057 (002)",
@@ -15558,8 +15558,8 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
-      "bonoGobierno": null
+      "bonoUnap": 0,
+      "bonoGobierno": 0
     },
     "asigEspeciales": "-",
     "rentaBrutaMensualizada": 1270029,
@@ -15586,7 +15586,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 290000
     },
     "asigEspeciales": "10.033 (002)",
@@ -15614,7 +15614,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 145000
     },
     "asigEspeciales": "60.847 (002)",
@@ -15642,8 +15642,8 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
-      "bonoGobierno": null
+      "bonoUnap": 0,
+      "bonoGobierno": 0
     },
     "asigEspeciales": "40.360 (002)",
     "rentaBrutaMensualizada": 631070,
@@ -15670,7 +15670,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 145000
     },
     "asigEspeciales": "42.423 (002)",
@@ -15698,7 +15698,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 145000
     },
     "asigEspeciales": "142.578 (002)",
@@ -15726,7 +15726,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 145000
     },
     "asigEspeciales": "40.114 (002)100.000 (230)175.000 (230)",
@@ -15754,7 +15754,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 145000
     },
     "asigEspeciales": "28.308 (002)",
@@ -15782,7 +15782,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 195000
     },
     "asigEspeciales": "36.588 (002)",
@@ -15810,7 +15810,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 290000
     },
     "asigEspeciales": "6.352 (002)",
@@ -15838,7 +15838,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 290000
     },
     "asigEspeciales": "25.409 (002)",
@@ -15866,7 +15866,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 290000
     },
     "asigEspeciales": "5.694 (002)",
@@ -15894,8 +15894,8 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
-      "bonoGobierno": null
+      "bonoUnap": 0,
+      "bonoGobierno": 0
     },
     "asigEspeciales": "-",
     "rentaBrutaMensualizada": 1141519,
@@ -15922,7 +15922,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 195000
     },
     "asigEspeciales": "-",
@@ -15950,7 +15950,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 290000
     },
     "asigEspeciales": "15.049 (002)",
@@ -15978,7 +15978,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 290000
     },
     "asigEspeciales": "25.082 (002)",
@@ -16006,7 +16006,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 145000
     },
     "asigEspeciales": "-",
@@ -16034,7 +16034,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 195000
     },
     "asigEspeciales": "-",
@@ -16062,7 +16062,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 145000
     },
     "asigEspeciales": "325.171 (002)",
@@ -16090,8 +16090,8 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
-      "bonoGobierno": null
+      "bonoUnap": 0,
+      "bonoGobierno": 0
     },
     "asigEspeciales": "-",
     "rentaBrutaMensualizada": 635014,
@@ -16118,7 +16118,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 145000
     },
     "asigEspeciales": "-",
@@ -16146,7 +16146,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 195000
     },
     "asigEspeciales": "-",
@@ -16174,7 +16174,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 145000
     },
     "asigEspeciales": "14.154 (002)",
@@ -16202,7 +16202,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 290000
     },
     "asigEspeciales": "22.818 (002)",
@@ -16230,7 +16230,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 145000
     },
     "asigEspeciales": "143.863 (002)",
@@ -16258,7 +16258,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 145000
     },
     "asigEspeciales": "49.497 (002)",
@@ -16286,7 +16286,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 145000
     },
     "asigEspeciales": "200.352 (002)",
@@ -16314,7 +16314,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 290000
     },
     "asigEspeciales": "-",
@@ -16342,8 +16342,8 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
-      "bonoGobierno": null
+      "bonoUnap": 0,
+      "bonoGobierno": 0
     },
     "asigEspeciales": "32.673 (002)",
     "rentaBrutaMensualizada": 1022108,
@@ -16370,7 +16370,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 145000
     },
     "asigEspeciales": "32.673 (002)",
@@ -16398,7 +16398,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 145000
     },
     "asigEspeciales": "65.034 (002)",
@@ -16426,7 +16426,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 290000
     },
     "asigEspeciales": "15.049 (002)",
@@ -16454,7 +16454,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 290000
     },
     "asigEspeciales": "28.470 (002)",
@@ -16482,7 +16482,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 290000
     },
     "asigEspeciales": "-",
@@ -16510,7 +16510,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 290000
     },
     "asigEspeciales": "-",
@@ -16538,7 +16538,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 145000
     },
     "asigEspeciales": "34.164 (002)",
@@ -16566,7 +16566,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 195000
     },
     "asigEspeciales": "20.066 (002)",
@@ -16594,7 +16594,7 @@
       "hextrasNocturnasFestivas": "315.744(88 Hrs.)"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 290000
     },
     "asigEspeciales": "13.278 (002)",
@@ -16622,7 +16622,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 145000
     },
     "asigEspeciales": "62.563 (002)",
@@ -16650,7 +16650,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 290000
     },
     "asigEspeciales": "20.066 (002)",
@@ -16678,7 +16678,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 290000
     },
     "asigEspeciales": "25.082 (002)",
@@ -16706,7 +16706,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 145000
     },
     "asigEspeciales": "17.082 (002)",
@@ -16734,7 +16734,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 145000
     },
     "asigEspeciales": "14.154 (002)",
@@ -16762,7 +16762,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 145000
     },
     "asigEspeciales": "25.409 (002)",
@@ -16790,7 +16790,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 290000
     },
     "asigEspeciales": "11.409 (002)",
@@ -16818,7 +16818,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 290000
     },
     "asigEspeciales": "-",
@@ -16846,7 +16846,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 145000
     },
     "asigEspeciales": "17.063 (002)",
@@ -16874,7 +16874,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 145000
     },
     "asigEspeciales": "34.877 (002)",
@@ -16902,7 +16902,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 145000
     },
     "asigEspeciales": "11.388 (002)",
@@ -16930,7 +16930,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 145000
     },
     "asigEspeciales": "11.388 (002)",
@@ -16958,7 +16958,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 290000
     },
     "asigEspeciales": "-",
@@ -16986,7 +16986,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 290000
     },
     "asigEspeciales": "19.670 (002)",
@@ -17014,7 +17014,7 @@
       "hextrasNocturnasFestivas": "287.040(80 Hrs.)"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 290000
     },
     "asigEspeciales": "13.278 (002)3.000 (214)",
@@ -17042,7 +17042,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 145000
     },
     "asigEspeciales": "51.190 (002)",
@@ -17070,8 +17070,8 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
-      "bonoGobierno": null
+      "bonoUnap": 0,
+      "bonoGobierno": 0
     },
     "asigEspeciales": "-",
     "rentaBrutaMensualizada": 497693,
@@ -17098,7 +17098,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 290000
     },
     "asigEspeciales": "20.066 (002)",
@@ -17126,7 +17126,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 290000
     },
     "asigEspeciales": "-",
@@ -17154,7 +17154,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 290000
     },
     "asigEspeciales": "17.082 (002)",
@@ -17182,7 +17182,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 145000
     },
     "asigEspeciales": "28.324 (002)",
@@ -17210,7 +17210,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 145000
     },
     "asigEspeciales": "34.164 (002)",
@@ -17238,7 +17238,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 290000
     },
     "asigEspeciales": "34.227 (002)",
@@ -17266,8 +17266,8 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
-      "bonoGobierno": null
+      "bonoUnap": 0,
+      "bonoGobierno": 0
     },
     "asigEspeciales": "-",
     "rentaBrutaMensualizada": 1185358,
@@ -17294,7 +17294,7 @@
       "hextrasNocturnasFestivas": "20.400(6 Hrs.)"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 290000
     },
     "asigEspeciales": "19.670 (002)61.200 (222)",
@@ -17322,7 +17322,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 195000
     },
     "asigEspeciales": "25.409 (002)",
@@ -17350,7 +17350,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 290000
     },
     "asigEspeciales": "-",
@@ -17378,7 +17378,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 195000
     },
     "asigEspeciales": "38.114 (002)",
@@ -17406,7 +17406,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 290000
     },
     "asigEspeciales": "-",
@@ -17434,7 +17434,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 145000
     },
     "asigEspeciales": "-",
@@ -17462,7 +17462,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 290000
     },
     "asigEspeciales": "5.016 (002)",
@@ -17490,7 +17490,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 195000
     },
     "asigEspeciales": "-",
@@ -17518,8 +17518,8 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
-      "bonoGobierno": null
+      "bonoUnap": 0,
+      "bonoGobierno": 0
     },
     "asigEspeciales": "24.216 (002)",
     "rentaBrutaMensualizada": 491988,
@@ -17546,7 +17546,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 290000
     },
     "asigEspeciales": "11.802 (002)",
@@ -17574,7 +17574,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 290000
     },
     "asigEspeciales": "20.066 (002)",
@@ -17602,7 +17602,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 290000
     },
     "asigEspeciales": "5.016 (002)",
@@ -17630,7 +17630,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 145000
     },
     "asigEspeciales": "28.308 (002)",
@@ -17658,7 +17658,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 290000
     },
     "asigEspeciales": "5.694 (002)",
@@ -17686,7 +17686,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 145000
     },
     "asigEspeciales": "43.957 (002)",
@@ -17714,8 +17714,8 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
-      "bonoGobierno": null
+      "bonoUnap": 0,
+      "bonoGobierno": 0
     },
     "asigEspeciales": "7.652 (002)",
     "rentaBrutaMensualizada": 998515,
@@ -17742,7 +17742,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 145000
     },
     "asigEspeciales": "22.956 (002)",
@@ -17770,7 +17770,7 @@
       "hextrasNocturnasFestivas": "297.680(80 Hrs.)"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 290000
     },
     "asigEspeciales": "26.557 (002)9.000 (214)",
@@ -17798,7 +17798,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 145000
     },
     "asigEspeciales": "228.304 (002)",
@@ -17826,7 +17826,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 145000
     },
     "asigEspeciales": "22.776 (002)",
@@ -17854,7 +17854,7 @@
       "hextrasNocturnasFestivas": "293.760(80 Hrs.)"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 290000
     },
     "asigEspeciales": "22.131 (002)10.000 (214)",
@@ -17882,7 +17882,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 290000
     },
     "asigEspeciales": "-",
@@ -17910,7 +17910,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 195000
     },
     "asigEspeciales": "6.352 (002)",
@@ -17938,7 +17938,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 290000
     },
     "asigEspeciales": "14.154 (002)",
@@ -17966,7 +17966,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 145000
     },
     "asigEspeciales": "-",
@@ -17994,7 +17994,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 145000
     },
     "asigEspeciales": "-",
@@ -18022,8 +18022,8 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
-      "bonoGobierno": null
+      "bonoUnap": 0,
+      "bonoGobierno": 0
     },
     "asigEspeciales": "16.649 (002)",
     "rentaBrutaMensualizada": 411774,
@@ -18050,7 +18050,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 290000
     },
     "asigEspeciales": "7.868 (002)",
@@ -18078,7 +18078,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 290000
     },
     "asigEspeciales": "13.278 (002)",
@@ -18106,7 +18106,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 290000
     },
     "asigEspeciales": "7.992 (002)",
@@ -18134,8 +18134,8 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
-      "bonoGobierno": null
+      "bonoUnap": 0,
+      "bonoGobierno": 0
     },
     "asigEspeciales": "34.877 (002)",
     "rentaBrutaMensualizada": 1932693,
@@ -18162,8 +18162,8 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
-      "bonoGobierno": null
+      "bonoUnap": 0,
+      "bonoGobierno": 0
     },
     "asigEspeciales": "45.856 (002)",
     "rentaBrutaMensualizada": 2029204,
@@ -18190,7 +18190,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 145000
     },
     "asigEspeciales": "11.388 (002)",
@@ -18218,7 +18218,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 290000
     },
     "asigEspeciales": "12.196 (002)",
@@ -18246,7 +18246,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 290000
     },
     "asigEspeciales": "11.802 (002)",
@@ -18274,7 +18274,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 145000
     },
     "asigEspeciales": "22.776 (002)",
@@ -18302,7 +18302,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 290000
     },
     "asigEspeciales": "-",
@@ -18330,7 +18330,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 290000
     },
     "asigEspeciales": "7.081 (002)",
@@ -18358,7 +18358,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 145000
     },
     "asigEspeciales": "91.103 (002)",
@@ -18386,7 +18386,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 290000
     },
     "asigEspeciales": "11.802 (002)",
@@ -18414,7 +18414,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 290000
     },
     "asigEspeciales": "15.049 (002)",
@@ -18442,7 +18442,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 290000
     },
     "asigEspeciales": "17.082 (002)",
@@ -18470,7 +18470,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 145000
     },
     "asigEspeciales": "51.190 (002)",
@@ -18498,7 +18498,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 290000
     },
     "asigEspeciales": "5.694 (002)",
@@ -18526,7 +18526,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 145000
     },
     "asigEspeciales": "50.000 (230)",
@@ -18554,8 +18554,8 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
-      "bonoGobierno": null
+      "bonoUnap": 0,
+      "bonoGobierno": 0
     },
     "asigEspeciales": "11.388 (002)",
     "rentaBrutaMensualizada": 3416501,
@@ -18582,7 +18582,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 290000
     },
     "asigEspeciales": "10.033 (002)",
@@ -18610,7 +18610,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 145000
     },
     "asigEspeciales": "25.409 (002)",
@@ -18638,7 +18638,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 290000
     },
     "asigEspeciales": "13.278 (002)",
@@ -18666,7 +18666,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 290000
     },
     "asigEspeciales": "-",
@@ -18694,7 +18694,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 145000
     },
     "asigEspeciales": "14.473 (002)",
@@ -18722,7 +18722,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 145000
     },
     "asigEspeciales": "11.388 (002)",
@@ -18750,7 +18750,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 290000
     },
     "asigEspeciales": "20.066 (002)",
@@ -18778,7 +18778,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 290000
     },
     "asigEspeciales": "20.066 (002)",
@@ -18806,7 +18806,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 145000
     },
     "asigEspeciales": "14.975 (002)",
@@ -18834,7 +18834,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 145000
     },
     "asigEspeciales": "-",
@@ -18862,7 +18862,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 145000
     },
     "asigEspeciales": "145.716 (002)",
@@ -18890,7 +18890,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 145000
     },
     "asigEspeciales": "34.164 (002)",
@@ -18918,7 +18918,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 145000
     },
     "asigEspeciales": "31.762 (002)",
@@ -18946,7 +18946,7 @@
       "hextrasNocturnasFestivas": "73.269(9 Hrs.)"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 290000
     },
     "asigEspeciales": "12.705 (002)",
@@ -18974,7 +18974,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 145000
     },
     "asigEspeciales": "11.388 (002)",
@@ -19002,7 +19002,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 145000
     },
     "asigEspeciales": "22.776 (002)",
@@ -19030,7 +19030,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 290000
     },
     "asigEspeciales": "31.762 (002)148.098 (222)",
@@ -19058,7 +19058,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 290000
     },
     "asigEspeciales": "16.721 (002)",
@@ -19086,7 +19086,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 145000
     },
     "asigEspeciales": "45.551 (002)",
@@ -19114,7 +19114,7 @@
       "hextrasNocturnasFestivas": "289.920(80 Hrs.)"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 290000
     },
     "asigEspeciales": "17.705 (002)10.000 (214)",
@@ -19142,7 +19142,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 290000
     },
     "asigEspeciales": "-",
@@ -19170,7 +19170,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 145000
     },
     "asigEspeciales": "34.164 (002)",
@@ -19198,7 +19198,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 145000
     },
     "asigEspeciales": "102.567 (002)75.000 (230)",
@@ -19226,7 +19226,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 145000
     },
     "asigEspeciales": "61.217 (002)",
@@ -19254,7 +19254,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 290000
     },
     "asigEspeciales": "53.085 (002)",
@@ -19282,7 +19282,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 145000
     },
     "asigEspeciales": "22.776 (002)",
@@ -19310,7 +19310,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 290000
     },
     "asigEspeciales": "47.955 (002)",
@@ -19338,7 +19338,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 145000
     },
     "asigEspeciales": "35.385 (002)",
@@ -19366,7 +19366,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 290000
     },
     "asigEspeciales": "6.451 (002)",
@@ -19394,7 +19394,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 145000
     },
     "asigEspeciales": "-",
@@ -19422,7 +19422,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 145000
     },
     "asigEspeciales": "-",
@@ -19450,7 +19450,7 @@
       "hextrasNocturnasFestivas": "329.856(64 Hrs.)"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 290000
     },
     "asigEspeciales": "17.114 (002)",
@@ -19478,7 +19478,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 145000
     },
     "asigEspeciales": "29.504 (002)",
@@ -19506,8 +19506,8 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
-      "bonoGobierno": null
+      "bonoUnap": 0,
+      "bonoGobierno": 0
     },
     "asigEspeciales": "27.748 (002)",
     "rentaBrutaMensualizada": 515421,
@@ -19534,7 +19534,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 145000
     },
     "asigEspeciales": "40.836 (002)",
@@ -19562,7 +19562,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 290000
     },
     "asigEspeciales": "20.066 (002)",
@@ -19590,7 +19590,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 145000
     },
     "asigEspeciales": "25.409 (002)",
@@ -19618,7 +19618,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 145000
     },
     "asigEspeciales": "28.308 (002)",
@@ -19646,7 +19646,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 145000
     },
     "asigEspeciales": "53.143 (002)",
@@ -19674,7 +19674,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 145000
     },
     "asigEspeciales": "114.071 (002)",
@@ -19702,7 +19702,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 290000
     },
     "asigEspeciales": "25.082 (002)",
@@ -19730,7 +19730,7 @@
       "hextrasNocturnasFestivas": "290.960(80 Hrs.)"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 290000
     },
     "asigEspeciales": "17.705 (002)4.000 (214)",
@@ -19758,7 +19758,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 145000
     },
     "asigEspeciales": "-",
@@ -19786,7 +19786,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 145000
     },
     "asigEspeciales": "134.771 (002)",
@@ -19814,8 +19814,8 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
-      "bonoGobierno": null
+      "bonoUnap": 0,
+      "bonoGobierno": 0
     },
     "asigEspeciales": "-",
     "rentaBrutaMensualizada": 550345,
@@ -19842,7 +19842,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 290000
     },
     "asigEspeciales": "-",
@@ -19870,7 +19870,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 290000
     },
     "asigEspeciales": "11.802 (002)",
@@ -19898,7 +19898,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 290000
     },
     "asigEspeciales": "-",
@@ -19926,7 +19926,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 145000
     },
     "asigEspeciales": "152.197 (002)",
@@ -19954,7 +19954,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 145000
     },
     "asigEspeciales": "56.939 (002)",
@@ -19982,7 +19982,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 290000
     },
     "asigEspeciales": "17.114 (002)",
@@ -20010,7 +20010,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 145000
     },
     "asigEspeciales": "-",
@@ -20038,7 +20038,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 145000
     },
     "asigEspeciales": "11.388 (002)",
@@ -20066,8 +20066,8 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
-      "bonoGobierno": null
+      "bonoUnap": 0,
+      "bonoGobierno": 0
     },
     "asigEspeciales": "24.505 (002)",
     "rentaBrutaMensualizada": 1022108,
@@ -20094,7 +20094,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 145000
     },
     "asigEspeciales": "49.010 (002)",
@@ -20122,7 +20122,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 145000
     },
     "asigEspeciales": "34.164 (002)",
@@ -20150,7 +20150,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 290000
     },
     "asigEspeciales": "17.114 (002)",
@@ -20178,7 +20178,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 145000
     },
     "asigEspeciales": "-",
@@ -20206,7 +20206,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 290000
     },
     "asigEspeciales": "25.082 (002)",
@@ -20234,7 +20234,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 145000
     },
     "asigEspeciales": "91.825 (002)",
@@ -20262,7 +20262,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 195000
     },
     "asigEspeciales": "31.762 (002)",
@@ -20290,8 +20290,8 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
-      "bonoGobierno": null
+      "bonoUnap": 0,
+      "bonoGobierno": 0
     },
     "asigEspeciales": "-",
     "rentaBrutaMensualizada": 2370721,
@@ -20318,7 +20318,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 145000
     },
     "asigEspeciales": "175.000 (230)75.000 (230)75.000 (230)75.000 (230)75.000 (230)75.000 (230)",
@@ -20346,7 +20346,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 145000
     },
     "asigEspeciales": "175.833 (002)",
@@ -20374,7 +20374,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 145000
     },
     "asigEspeciales": "45.551 (002)",
@@ -20402,7 +20402,7 @@
       "hextrasNocturnasFestivas": "315.744(88 Hrs.)"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 290000
     },
     "asigEspeciales": "13.278 (002)10.000 (214)",
@@ -20430,7 +20430,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 290000
     },
     "asigEspeciales": "-",
@@ -20458,8 +20458,8 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
-      "bonoGobierno": null
+      "bonoUnap": 0,
+      "bonoGobierno": 0
     },
     "asigEspeciales": "-",
     "rentaBrutaMensualizada": 688168,
@@ -20486,7 +20486,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 145000
     },
     "asigEspeciales": "114.071 (002)",
@@ -20514,7 +20514,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 290000
     },
     "asigEspeciales": "-",
@@ -20542,7 +20542,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 290000
     },
     "asigEspeciales": "5.694 (002)",
@@ -20570,7 +20570,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 145000
     },
     "asigEspeciales": "6.451 (002)",
@@ -20598,8 +20598,8 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
-      "bonoGobierno": null
+      "bonoUnap": 0,
+      "bonoGobierno": 0
     },
     "asigEspeciales": "-",
     "rentaBrutaMensualizada": 987801,
@@ -20626,7 +20626,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 145000
     },
     "asigEspeciales": "45.551 (002)",
@@ -20654,7 +20654,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 145000
     },
     "asigEspeciales": "34.164 (002)",
@@ -20682,7 +20682,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 145000
     },
     "asigEspeciales": "22.776 (002)",
@@ -20710,7 +20710,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 145000
     },
     "asigEspeciales": "38.114 (002)",
@@ -20738,7 +20738,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 290000
     },
     "asigEspeciales": "21.231 (002)",
@@ -20766,7 +20766,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 145000
     },
     "asigEspeciales": "11.388 (002)",
@@ -20794,7 +20794,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 145000
     },
     "asigEspeciales": "13.612 (002)",
@@ -20822,8 +20822,8 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
-      "bonoGobierno": null
+      "bonoUnap": 0,
+      "bonoGobierno": 0
     },
     "asigEspeciales": "47.642 (002)",
     "rentaBrutaMensualizada": 1527343,
@@ -20850,7 +20850,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 290000
     },
     "asigEspeciales": "12.541 (002)",
@@ -20878,7 +20878,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 290000
     },
     "asigEspeciales": "23.604 (002)",
@@ -20906,7 +20906,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 145000
     },
     "asigEspeciales": "87.914 (002)",
@@ -20934,7 +20934,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 290000
     },
     "asigEspeciales": "22.776 (002)",
@@ -20962,7 +20962,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 145000
     },
     "asigEspeciales": "28.947 (002)",
@@ -20990,7 +20990,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 290000
     },
     "asigEspeciales": "-",
@@ -21018,7 +21018,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 145000
     },
     "asigEspeciales": "21.231 (002)",
@@ -21046,7 +21046,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 195000
     },
     "asigEspeciales": "6.352 (002)",
@@ -21074,7 +21074,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 290000
     },
     "asigEspeciales": "7.153 (002)",
@@ -21102,7 +21102,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 145000
     },
     "asigEspeciales": "28.308 (002)",
@@ -21130,7 +21130,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 290000
     },
     "asigEspeciales": "11.802 (002)",
@@ -21158,7 +21158,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 195000
     },
     "asigEspeciales": "-",
@@ -21186,7 +21186,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 290000
     },
     "asigEspeciales": "-",
@@ -21214,7 +21214,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 290000
     },
     "asigEspeciales": "-",
@@ -21242,7 +21242,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 290000
     },
     "asigEspeciales": "11.388 (002)",
@@ -21270,7 +21270,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 290000
     },
     "asigEspeciales": "11.409 (002)",
@@ -21298,7 +21298,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 145000
     },
     "asigEspeciales": "-",
@@ -21326,7 +21326,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 290000
     },
     "asigEspeciales": "11.802 (002)",
@@ -21354,8 +21354,8 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
-      "bonoGobierno": null
+      "bonoUnap": 0,
+      "bonoGobierno": 0
     },
     "asigEspeciales": "-",
     "rentaBrutaMensualizada": 432563,
@@ -21382,7 +21382,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 145000
     },
     "asigEspeciales": "45.551 (002)",
@@ -21410,7 +21410,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 195000
     },
     "asigEspeciales": "12.705 (002)",
@@ -21438,7 +21438,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 145000
     },
     "asigEspeciales": "-",
@@ -21466,7 +21466,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 145000
     },
     "asigEspeciales": "14.652 (002)",
@@ -21494,7 +21494,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 145000
     },
     "asigEspeciales": "45.551 (002)",
@@ -21522,7 +21522,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 195000
     },
     "asigEspeciales": "-",
@@ -21550,7 +21550,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 290000
     },
     "asigEspeciales": "15.049 (002)",
@@ -21578,7 +21578,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 145000
     },
     "asigEspeciales": "-",
@@ -21606,7 +21606,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 290000
     },
     "asigEspeciales": "20.066 (002)",
@@ -21634,7 +21634,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 290000
     },
     "asigEspeciales": "20.066 (002)",
@@ -21662,7 +21662,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 145000
     },
     "asigEspeciales": "11.388 (002)",
@@ -21690,7 +21690,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 145000
     },
     "asigEspeciales": "23.603 (002)",
@@ -21718,7 +21718,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 145000
     },
     "asigEspeciales": "-",
@@ -21746,7 +21746,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 145000
     },
     "asigEspeciales": "36.588 (002)",
@@ -21774,7 +21774,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 145000
     },
     "asigEspeciales": "182.773 (002)",
@@ -21802,7 +21802,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 145000
     },
     "asigEspeciales": "26.743 (002)",
@@ -21830,7 +21830,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 145000
     },
     "asigEspeciales": "68.253 (002)",
@@ -21858,7 +21858,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 145000
     },
     "asigEspeciales": "34.164 (002)",
@@ -21886,7 +21886,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 290000
     },
     "asigEspeciales": "-",
@@ -21914,7 +21914,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 145000
     },
     "asigEspeciales": "-",
@@ -21942,7 +21942,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 145000
     },
     "asigEspeciales": "11.388 (002)",
@@ -21970,7 +21970,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 145000
     },
     "asigEspeciales": "45.551 (002)",
@@ -21998,7 +21998,7 @@
       "hextrasNocturnasFestivas": "81.757(19 Hrs.)"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 290000
     },
     "asigEspeciales": "25.082 (002)",
@@ -22026,8 +22026,8 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
-      "bonoGobierno": null
+      "bonoUnap": 0,
+      "bonoGobierno": 0
     },
     "asigEspeciales": "5.016 (002)",
     "rentaBrutaMensualizada": 277031,
@@ -22054,7 +22054,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 290000
     },
     "asigEspeciales": "15.049 (002)",
@@ -22082,7 +22082,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 290000
     },
     "asigEspeciales": "-",
@@ -22110,7 +22110,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 145000
     },
     "asigEspeciales": "34.164 (002)",
@@ -22138,7 +22138,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 195000
     },
     "asigEspeciales": "-",
@@ -22166,7 +22166,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 290000
     },
     "asigEspeciales": "31.762 (002)",
@@ -22194,7 +22194,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 290000
     },
     "asigEspeciales": "19.907 (002)",
@@ -22222,7 +22222,7 @@
       "hextrasNocturnasFestivas": "287.040(80 Hrs.)"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 290000
     },
     "asigEspeciales": "13.278 (002)1.000 (214)",
@@ -22250,8 +22250,8 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
-      "bonoGobierno": null
+      "bonoUnap": 0,
+      "bonoGobierno": 0
     },
     "asigEspeciales": "37.230 (002)",
     "rentaBrutaMensualizada": 1542279,
@@ -22278,8 +22278,8 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
-      "bonoGobierno": null
+      "bonoUnap": 0,
+      "bonoGobierno": 0
     },
     "asigEspeciales": "27.923 (002)",
     "rentaBrutaMensualizada": 2025959,
@@ -22306,7 +22306,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 195000
     },
     "asigEspeciales": "42.686 (002)",
@@ -22334,7 +22334,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 145000
     },
     "asigEspeciales": "-",
@@ -22362,7 +22362,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 145000
     },
     "asigEspeciales": "19.057 (002)",
@@ -22390,7 +22390,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 145000
     },
     "asigEspeciales": "91.945 (002)",
@@ -22418,7 +22418,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 290000
     },
     "asigEspeciales": "12.196 (002)",
@@ -22446,7 +22446,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 290000
     },
     "asigEspeciales": "-",
@@ -22474,7 +22474,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 290000
     },
     "asigEspeciales": "30.099 (002)",
@@ -22502,7 +22502,7 @@
       "hextrasNocturnasFestivas": "-"
     },
     "bonos": {
-      "bonoUnap": null,
+      "bonoUnap": 0,
       "bonoGobierno": 145000
     },
     "asigEspeciales": "-",
