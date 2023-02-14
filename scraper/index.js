@@ -22,7 +22,7 @@ const getFuncionarios = async () => {
     const $rows = $('table').eq(1).find('tr')
 
     const FUNCIONARIOS_SELECTORS = {
-        nCompleto: {selector:'td:nth-child(1)'},
+        nombreCompleto: {selector:'td:nth-child(1)'},
         sede: {selector:'td:nth-child(2)'},
         region: {selector:'td:nth-child(3)'},
         //with cheerio i want to set selector as the content of the title attribute of the span
