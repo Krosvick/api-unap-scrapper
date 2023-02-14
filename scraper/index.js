@@ -25,8 +25,8 @@ const getFuncionarios = async () => {
         nCompleto: {selector:'td:nth-child(1)'},
         sede: {selector:'td:nth-child(2)'},
         region: {selector:'td:nth-child(3)'},
-        estudios: {selector:'td:nth-child(4)'},
-        
+        //with cheerio i want to set selector as the content of the title attribute of the span
+        estudios: {selectorprev:'td:nth-child(4) a span'},
         estamento: {selector:'td:nth-child(5)'},
         categoria: {selector:'td:nth-child(6)'},
         cargo: {selector:'td:nth-child(7)'},
@@ -37,12 +37,16 @@ const getFuncionarios = async () => {
         mes: {selector:'td:nth-child(12)', typeOf: 'number'},
         rentaBruta: {selector:'td:nth-child(13)', typeOf: 'number' },
         hextras: {
-            hextras: {selector: 'td:nth-child(14)', typeOf: 'number'},
-            hextrasNocturnasFestivas: {selector: 'td:nth-child(15)', typeOf: 'number'},
+            selector:{
+                hextras: {selector: 'td:nth-child(14)'},
+                hextrasNocturnasFestivas: {selector: 'td:nth-child(15)'},
+            }
         },
         bonos:{
-            bonoUnap: {selector: 'td:nth-child(16)', typeOf: 'number'},
-            bonoGobierno: {selector: 'td:nth-child(17)', typeOf: 'number'},
+            selector:{
+                bonoUnap: {selector: 'td:nth-child(16)', typeOf: 'number'},
+                bonoGobierno: {selector: 'td:nth-child(17)', typeOf: 'number'},
+            }
         },
         asigEspeciales: {selector:'td:nth-child(18)'},
         rentaBrutaMensualizada: {selector:'td:nth-child(19)', typeOf: 'number'},
@@ -53,8 +57,9 @@ const getFuncionarios = async () => {
 
     //regex to remove first blank space from strings that have it
     //also will clean the text to /n or /t and other special characters
+    //if there are <br><br />tags, it will replace them with commas
     const cleanText = (text) => {
-        return text.replace(/^\s+|\s+$/g, '').replace(/\s+/g, ' ')
+        return text.replace(/^\s+|\s+$/g, '').replace(/\n|\t/g, '').replace(/<br \/>/g, ',')
     }
     //remove dots from numbers
     const cleanNumber = (number) => {
@@ -63,21 +68,39 @@ const getFuncionarios = async () => {
 
     //loop through each row
     //ignore the first row because it's the header
+    const funcionarios = []
     $rows.each((i, el) => {
         const $el = $(el)
         if (i === 0) return
-        const funcionariosEntries = Object.entries(FUNCIONARIOS_SELECTORS).map(([key, {selector, typeOf}]) => {
+        const funcionariosEntries = Object.entries(FUNCIONARIOS_SELECTORS).map(([key, {selector, selectorprev, typeOf}]) => {
             const value = $el.find(selector).text()
             if (typeOf === 'number') return [key, Number(cleanNumber(cleanText(value)))]
+            if (selectorprev){
+                try {
+                    return [key, cleanText($el.find(selectorprev).attr('title'))]
+                }
+                catch (e) {
+                    return [key, '']
+                }
+
+            }
+            //check if the selector is a nested object
+            if (typeof selector === 'object'){
+                const nestedEntries = Object.entries(selector).map(([nestedKey, {selector, typeOf}]) => {
+                    const nestedValue = $el.find(selector).text()
+                    if (typeOf === 'number') return [nestedKey, Number(cleanNumber(cleanText(nestedValue)))]
+                    return [nestedKey, cleanText(nestedValue)]
+                })
+                return [key, Object.fromEntries(nestedEntries)]
+            }
             return [key, cleanText(value)]
         })
-        console.log(Object.fromEntries(funcionariosEntries))
+        funcionarios.push(Object.fromEntries(funcionariosEntries))
     })
+    return funcionarios
 }
-
-
-await getFuncionarios()
-
+const funcionarios = await getFuncionarios()
+console.log(funcionarios)
 //get the second table
 
 /*
