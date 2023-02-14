@@ -1,6 +1,5 @@
 import fs from 'node:fs'
 import puppeteer from 'puppeteer'
-import beautify from "js-beautify"
 import * as cheerio from 'cheerio'
 
 const URLS = {
