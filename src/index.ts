@@ -8,6 +8,8 @@
  * Learn more at https://developers.cloudflare.com/workers/
  */
 
+import funcionarios from "../db/funcionarios.json";
+
 export interface Env {
 	// Example binding to KV. Learn more at https://developers.cloudflare.com/workers/runtime-apis/kv/
 	// MY_KV_NAMESPACE: KVNamespace;
@@ -25,6 +27,8 @@ export default {
 		env: Env,
 		ctx: ExecutionContext
 	): Promise<Response> {
-		return new Response("Hello World!");
+		return new Response(JSON.stringify(funcionarios), {
+			headers: { "content-type": "application/json;charset=UTF-8" },
+	});
 	},
 };
