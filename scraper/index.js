@@ -22,27 +22,33 @@ const getFuncionarios = async () => {
     const $rows = $('table').eq(1).find('tr')
 
     const FUNCIONARIOS_SELECTORS = {
-        nCompleto: 'td:nth-child(1)',
-        sede: 'td:nth-child(2)',
-        region: 'td:nth-child(3)',
-        estudios: 'td:nth-child(4)',
-        estamento: 'td:nth-child(5)',
-        categoria: 'td:nth-child(6)',
-        cargo: 'td:nth-child(7)',
-        funcion: 'td:nth-child(8)',
-        tipoJornada: 'td:nth-child(9)',
-        fInicio: 'td:nth-child(10)',
-        fTermino: 'td:nth-child(11)',
-        mes: 'td:nth-child(12)',
-        rentaBruta: 'td:nth-child(13)',
-        hextras: 'td:nth-child(14)',
-        hextrasNocturnasFestivas: 'td:nth-child(15)',
-        bonoUnap: 'td:nth-child(16)',
-        bonoGobierno: 'td:nth-child(17)',
-        asigEspeciales: 'td:nth-child(18)',
-        rentaLiquida: 'td:nth-child(19)',
-        uMonetaria: 'td:nth-child(20)',
-        observaciones: 'td:nth-child(21)',
+        nCompleto: {selector:'td:nth-child(1)'},
+        sede: {selector:'td:nth-child(2)'},
+        region: {selector:'td:nth-child(3)'},
+        estudios: {selector:'td:nth-child(4)'},
+        
+        estamento: {selector:'td:nth-child(5)'},
+        categoria: {selector:'td:nth-child(6)'},
+        cargo: {selector:'td:nth-child(7)'},
+        funcion: {selector:'td:nth-child(8)'},
+        tipoJornada: {selector:'td:nth-child(9)'},
+        fInicio: {selector:'td:nth-child(10)'},
+        fTermino: {selector:'td:nth-child(11)'},
+        mes: {selector:'td:nth-child(12)', typeOf: 'number'},
+        rentaBruta: {selector:'td:nth-child(13)', typeOf: 'number' },
+        hextras: {
+            hextras: {selector: 'td:nth-child(14)', typeOf: 'number'},
+            hextrasNocturnasFestivas: {selector: 'td:nth-child(15)', typeOf: 'number'},
+        },
+        bonos:{
+            bonoUnap: {selector: 'td:nth-child(16)', typeOf: 'number'},
+            bonoGobierno: {selector: 'td:nth-child(17)', typeOf: 'number'},
+        },
+        asigEspeciales: {selector:'td:nth-child(18)'},
+        rentaBrutaMensualizada: {selector:'td:nth-child(19)', typeOf: 'number'},
+        rentaLiquida: {selector:'td:nth-child(20)', typeOf: 'number'},
+        uMonetaria: {selector:'td:nth-child(21)'},
+        observaciones: {selector:'td:nth-child(22)'},
     }
 
     //regex to remove first blank space from strings that have it
@@ -50,17 +56,22 @@ const getFuncionarios = async () => {
     const cleanText = (text) => {
         return text.replace(/^\s+|\s+$/g, '').replace(/\s+/g, ' ')
     }
+    //remove dots from numbers
+    const cleanNumber = (number) => {
+        return number.replace(/\./g, '')
+    }
 
     //loop through each row
     //ignore the first row because it's the header
     $rows.each((i, el) => {
         const $el = $(el)
         if (i === 0) return
-        const funcionariosEntries = Object.entries(FUNCIONARIOS_SELECTORS).map(([key, selector]) => {
+        const funcionariosEntries = Object.entries(FUNCIONARIOS_SELECTORS).map(([key, {selector, typeOf}]) => {
             const value = $el.find(selector).text()
-            return [key, cleanText(value) ]
+            if (typeOf === 'number') return [key, Number(cleanNumber(cleanText(value)))]
+            return [key, cleanText(value)]
         })
-        console.log(funcionariosEntries)
+        console.log(Object.fromEntries(funcionariosEntries))
     })
 }
 
