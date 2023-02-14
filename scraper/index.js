@@ -1,6 +1,7 @@
-import fs from 'node:fs'
+import {writeFile} from 'node:fs/promises'
 import puppeteer from 'puppeteer'
 import * as cheerio from 'cheerio'
+import path from 'node:path'
 
 const URLS = {
     transparencia: 'http://portal.unap.cl/~siperpro/app/app_transparencia',
@@ -99,6 +100,8 @@ const getFuncionarios = async () => {
     return funcionarios
 }
 const funcionarios = await getFuncionarios()
+const filePath = path.join(process.cwd(), './db/funcionarios.json')
+await writeFile(filePath, JSON.stringify(funcionarios, null, 2), 'utf-8')
 console.log(funcionarios)
 //get the second table
 
