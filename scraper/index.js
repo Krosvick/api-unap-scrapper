@@ -36,10 +36,10 @@ const getFuncionarios = async () => {
         fTermino: {selector:'td:nth-child(11)'},
         mes: {selector:'td:nth-child(12)', typeOf: 'number'},
         rentaBruta: {selector:'td:nth-child(13)', typeOf: 'number' },
-        hextras: {
+        horasExtras: {
             selector:{
-                hextras: {selector: 'td:nth-child(14)'},
-                hextrasNocturnasFestivas: {selector: 'td:nth-child(15)'},
+                horasExtras: {selector: 'td:nth-child(14)'},
+                horasExtrasNocturnasFestivas: {selector: 'td:nth-child(15)'},
             }
         },
         bonos:{
