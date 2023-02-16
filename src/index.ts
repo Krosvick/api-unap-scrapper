@@ -9,26 +9,21 @@
  */
 
 import funcionarios from "../db/funcionarios.json";
+import { Hono } from "hono";
 
-export interface Env {
-	// Example binding to KV. Learn more at https://developers.cloudflare.com/workers/runtime-apis/kv/
-	// MY_KV_NAMESPACE: KVNamespace;
-	//
-	// Example binding to Durable Object. Learn more at https://developers.cloudflare.com/workers/runtime-apis/durable-objects/
-	// MY_DURABLE_OBJECT: DurableObjectNamespace;
-	//
-	// Example binding to R2. Learn more at https://developers.cloudflare.com/workers/runtime-apis/r2/
-	// MY_BUCKET: R2Bucket;
-}
+const app = new Hono();
 
-export default {
-	async fetch(
-		request: Request,
-		env: Env,
-		ctx: ExecutionContext
-	): Promise<Response> {
-		return new Response(JSON.stringify(funcionarios), {
-			headers: { "content-type": "application/json;charset=UTF-8" },
-	});
-	},
-};
+app.get("/", (ctx) => {
+	return ctx.json([
+		{
+			endpoint: "/funcionarios",
+			returns: "devuelve todos los funcionarios con contrato"
+		}
+	])
+})
+
+app.get("/funcionarios", (ctx) => {
+	return ctx.json(funcionarios);
+})
+
+export default app
