@@ -10,6 +10,7 @@
 
 import funcionarios from "../db/funcionarios.json";
 import { Hono } from "hono";
+import { end } from "cheerio/lib/api/traversing";
 
 const app = new Hono();
 
@@ -23,7 +24,14 @@ app.get("/", (ctx) => {
 })
 
 app.get("/funcionarios", (ctx) => {
-	return ctx.json(funcionarios);
+	return ctx.json(funcionarios)
+})
+app.get("/funcionarios/:perPage" , (ctx) => {
+	const perPage = ctx.req.param("perPage")
+	const numericPerPage = parseInt(perPage)
+	//format the json
+	const slicedFuncionarios = funcionarios.slice(0, numericPerPage)
+	return ctx.json(slicedFuncionarios)
 })
 
 export default app
