@@ -5,11 +5,17 @@ import path from 'node:path'
 
 const URLS = {
     transparencia: 'http://portal.unap.cl/~siperpro/app/app_transparencia',
+    horarios:'http://portal.unap.cl/campus_online/apps/app_avirtual/presentacion/router_menu_v2.php?r=93093ba6963784fd92f46bad50567d249d2e737af2566fc3fa92b2f84883'
+}
+const HEADERS = {
+    'User-Agent': 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36',
 }
 
 const scrape = async (url) => {
+    //use headers
     const browser = await puppeteer.launch()
     const page = await browser.newPage()
+    await page.setExtraHTTPHeaders(HEADERS)
     await page.goto(url)
     await page.waitForSelector('tbody')
     let data = await page.evaluate(() => document.body.innerHTML)
@@ -17,6 +23,42 @@ const scrape = async (url) => {
     await browser.close()
     return data
 }
+const scrapeAllRooms = async (url) => {
+    const roomSelectTags = {
+        'Sede ': 'Iquique',
+        'Localidad': 'Iquique',
+        'Campus': 'Playa Brava',
+        'Sala': 'LP'
+    }
+    const browser = await puppeteer.launch()
+    const page = await browser.newPage()
+    await page.goto(url)
+    console.log(await page.content())
+    //wait for #document to be loaded
+    await page.waitForSelector('#document')
+    //find tds with roomSelectTags and set the select inside them to the value of the tag
+    for (const [tag, value] of Object.entries(roomSelectTags)) {
+        let tdElement = await page.$x(`//td[contains(text(), '${tag}')]`)
+        let selectElement = await tdElement[0].$$(xpath = 'select')
+        await selectElement[0].select(value)
+    }
+    //click input with value="Cargar"
+    await page.click('input[value="Cargar"]')
+    await page.waitForSelector('tbody')
+    let data = await page.evaluate(() => document.body.innerHTML)
+    data = cheerio.load(data)
+    await browser.close()
+    return data
+
+}
+    
+const saveRoomsHtml = async () => {
+    const $ = await scrapeAllRooms(URLS.horarios)
+    const html = $.html()
+    await writeFile(path.join(process.cwd(), 'rooms.html'), html)
+}
+
+    
 const getFuncionarios = async () => {
     const $ = await scrape(URLS.transparencia)
     const $rows = $('table').eq(1).find('tr')
@@ -111,10 +153,11 @@ const getFuncionarios = async () => {
     })
     return funcionarios
 }
-const funcionarios = await getFuncionarios()
+/*const funcionarios = await getFuncionarios()
 const filePath = path.join(process.cwd(), './db/funcionarios.json')
 await writeFile(filePath, JSON.stringify(funcionarios, null, 2), 'utf-8')
-console.log(funcionarios)
+console.log(funcionarios)*/
+saveRoomsHtml()
 //get the second table
 
 /*
